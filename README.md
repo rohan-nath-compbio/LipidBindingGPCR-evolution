@@ -1,4 +1,4 @@
-# Evolution of lipid-responsive GPCRs
+# Large-Scale Comparative Analysis Uncovers the Evolutionary History and Hidden Diversity of Lipid-Responsive GPCRs
 
 Reproducible code and curated input data supporting the manuscript *Large-Scale Comparative Analysis Uncovers the Evolutionary History and Hidden Diversity of Lipid-Responsive GPCRs*.
 
