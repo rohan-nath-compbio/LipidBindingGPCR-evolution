@@ -1,0 +1,19 @@
+# R session and generated analysis products
+.Rhistory
+.RData
+.Rproj.user/
+Rplots.pdf
+results/**/*.svg
+!results/synteny/synteny.svg
+results/**/*.html
+results/**/*.png
+results/**/*.pdf
+results/synteny/*/
+
+# Large, reproducibly generated gene-neighborhood resources
+resources/synteny/
+tools/bin/taxonkit
+
+# Editor and operating-system files
+.DS_Store
+*.swp

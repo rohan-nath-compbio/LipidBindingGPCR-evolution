@@ -1,0 +1,892 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="720" viewBox="0 0 1000 720"><g transform="translate(0,0)"><path d="M488.113037109375,439C488.113037109375,479,488.114013671875,479,488.114013671875,519L509.5418701171875,519C509.5418701171875,479,509.5408935546875,479,509.5408935546875,439Z" class="GeneLink" style="fill: rgb(226, 31, 76); stroke: none; fill-opacity: 0.8;"></path><path d="M567.475830078125,439C567.475830078125,479,567.4755859375,479,567.4755859375,519L588.9039306640625,519C588.9039306640625,479,588.9036865234375,479,588.9036865234375,439Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M646.8385620117188,439C646.8385620117188,479,646.837646484375,479,646.837646484375,519L668.2655029296875,519C668.2655029296875,479,668.2664184570312,479,668.2664184570312,439Z" class="GeneLink" style="fill: rgb(242, 141, 165); stroke: none; fill-opacity: 0.8;"></path><path d="M91.30030822753906,599C91.30030822753906,639,170.6629638671875,639,170.6629638671875,679L192.09132385253906,679C192.09132385253906,639,112.728271484375,639,112.728271484375,599Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M170.66287231445312,599C170.66287231445312,639,250.02511596679688,639,250.02511596679688,679L271.4534912109375,679C271.4534912109375,639,192.09068298339844,639,192.09068298339844,599Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M250.02529907226562,599C250.02529907226562,639,329.38885498046875,639,329.38885498046875,679L350.8164978027344,679C350.8164978027344,639,271.4532470703125,639,271.4532470703125,599Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M329.38787841796875,599C329.38787841796875,639,408.7510070800781,639,408.7510070800781,679L430.17864990234375,679C430.17864990234375,639,350.815673828125,639,350.815673828125,599Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M488.113037109375,599C488.113037109375,639,488.1131591796875,639,488.1131591796875,679L509.540771484375,679C509.540771484375,639,509.54095458984375,639,509.54095458984375,599Z" class="GeneLink" style="fill: rgb(226, 31, 76); stroke: none; fill-opacity: 0.8;"></path><path d="M567.4755859375,599C567.4755859375,639,726.2005004882812,639,726.2005004882812,679L747.6288452148438,679C747.6288452148438,639,588.9033813476562,639,588.9033813476562,599Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M488.114013671875,519C488.114013671875,559,488.113037109375,559,488.113037109375,599L509.54095458984375,599C509.54095458984375,559,509.5418701171875,559,509.5418701171875,519Z" class="GeneLink" style="fill: rgb(226, 31, 76); stroke: none; fill-opacity: 0.8;"></path><path d="M567.4755859375,519C567.4755859375,559,567.4755859375,559,567.4755859375,599L588.9033813476562,599C588.9033813476562,559,588.9039306640625,559,588.9039306640625,519Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M646.837646484375,519C646.837646484375,559,726.2007446289062,559,726.2007446289062,599L747.628662109375,599C747.628662109375,559,668.2655029296875,559,668.2655029296875,519Z" class="GeneLink" style="fill: rgb(242, 141, 165); stroke: none; fill-opacity: 0.8;"></path><path d="M884.9256591796875,119C884.9256591796875,159,91.30020141601562,159,91.30020141601562,199L112.72805786132812,199C112.72805786132812,159,906.3536376953125,159,906.3536376953125,119Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M805.5632934570312,119C805.5632934570312,159,170.66265869140625,159,170.66265869140625,199L192.09051513671875,199C192.09051513671875,159,826.9912719726562,159,826.9912719726562,119Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M726.2008666992188,119C726.2008666992188,159,250.02532958984375,159,250.02532958984375,199L271.453369140625,199C271.453369140625,159,747.6288452148438,159,747.6288452148438,119Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M646.8380126953125,119C646.8380126953125,159,329.38818359375,159,329.38818359375,199L350.8160400390625,199C350.8160400390625,159,668.2655639648438,159,668.2655639648438,119Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M567.4755859375,119C567.4755859375,159,408.7506103515625,159,408.7506103515625,199L430.178466796875,199C430.178466796875,159,588.9031982421875,159,588.9031982421875,119Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M488.11236572265625,119C488.11236572265625,159,488.113037109375,159,488.113037109375,199L509.5408935546875,199C509.5408935546875,159,509.540283203125,159,509.540283203125,119Z" class="GeneLink" style="fill: rgb(226, 31, 76); stroke: none; fill-opacity: 0.8;"></path><path d="M329.3875427246094,119C329.3875427246094,159,567.4755249023438,159,567.4755249023438,199L588.9033813476562,199C588.9033813476562,159,350.8155212402344,159,350.8155212402344,119Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M250.025146484375,119C250.025146484375,159,646.8379516601562,159,646.8379516601562,199L668.2658081054688,199C668.2658081054688,159,271.453125,159,271.453125,119Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M170.66273498535156,119C170.66273498535156,159,726.2006225585938,159,726.2006225585938,199L747.628662109375,199C747.628662109375,159,192.0906982421875,159,192.0906982421875,119Z" class="GeneLink" style="fill: rgb(242, 141, 165); stroke: none; fill-opacity: 0.8;"></path><path d="M91.30032348632812,119C91.30032348632812,159,805.5634765625,159,805.5634765625,199L826.9913330078125,199C826.9913330078125,159,112.72830200195312,159,112.72830200195312,119Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M726.200927734375,39C726.200927734375,79,91.30032348632812,79,91.30032348632812,119L112.72830200195312,119C112.72830200195312,79,747.6288452148438,79,747.6288452148438,39Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M646.8381958007812,39C646.8381958007812,79,170.66273498535156,79,170.66273498535156,119L192.0906982421875,119C192.0906982421875,79,668.26611328125,79,668.26611328125,39Z" class="GeneLink" style="fill: rgb(242, 141, 165); stroke: none; fill-opacity: 0.8;"></path><path d="M567.4755249023438,39C567.4755249023438,79,329.3875427246094,79,329.3875427246094,119L350.8155212402344,119C350.8155212402344,79,588.9033813476562,79,588.9033813476562,39Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M488.11328125,39C488.11328125,79,488.11236572265625,79,488.11236572265625,119L509.540283203125,119C509.540283203125,79,509.5411376953125,79,509.5411376953125,39Z" class="GeneLink" style="fill: rgb(226, 31, 76); stroke: none; fill-opacity: 0.8;"></path><path d="M408.7505798339844,39C408.7505798339844,79,567.4755859375,79,567.4755859375,119L588.9031982421875,119C588.9031982421875,79,430.178466796875,79,430.178466796875,39Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M329.38787841796875,39C329.38787841796875,79,646.8380126953125,79,646.8380126953125,119L668.2655639648438,119C668.2655639648438,79,350.8157653808594,79,350.8157653808594,39Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M250.02532958984375,39C250.02532958984375,79,726.2008666992188,79,726.2008666992188,119L747.6288452148438,119C747.6288452148438,79,271.453369140625,79,271.453369140625,39Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M170.66294860839844,39C170.66294860839844,79,805.5632934570312,79,805.5632934570312,119L826.9912719726562,119C826.9912719726562,79,192.09083557128906,79,192.09083557128906,39Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M91.30023193359375,39C91.30023193359375,79,884.9256591796875,79,884.9256591796875,119L906.3536376953125,119C906.3536376953125,79,112.72811889648438,79,112.72811889648438,39Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M884.9259033203125,199C884.9259033203125,239,170.6628875732422,239,170.6628875732422,279L192.09063720703125,279C192.09063720703125,239,906.353759765625,239,906.353759765625,199Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M805.5634765625,199C805.5634765625,239,250.0250244140625,239,250.0250244140625,279L271.4530944824219,279C271.4530944824219,239,826.9913330078125,239,826.9913330078125,199Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M567.4755249023438,199C567.4755249023438,239,408.75030517578125,239,408.75030517578125,279L430.17803955078125,279C430.17803955078125,239,588.9033813476562,239,588.9033813476562,199Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M488.113037109375,199C488.113037109375,239,488.1131591796875,239,488.1131591796875,279L509.5408935546875,279C509.5408935546875,239,509.5408935546875,239,509.5408935546875,199Z" class="GeneLink" style="fill: rgb(226, 31, 76); stroke: none; fill-opacity: 0.8;"></path><path d="M329.38818359375,199C329.38818359375,239,567.4752807617188,239,567.4752807617188,279L588.9033203125,279C588.9033203125,239,350.8160400390625,239,350.8160400390625,199Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M250.02532958984375,199C250.02532958984375,239,646.8380737304688,239,646.8380737304688,279L668.26611328125,279C668.26611328125,239,271.453369140625,239,271.453369140625,199Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M170.66265869140625,199C170.66265869140625,239,726.2005615234375,239,726.2005615234375,279L747.6282958984375,279C747.6282958984375,239,192.09051513671875,239,192.09051513671875,199Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M91.30020141601562,199C91.30020141601562,239,805.5633544921875,239,805.5633544921875,279L826.9910888671875,279C826.9910888671875,239,112.72805786132812,239,112.72805786132812,199Z" class="GeneLink" style="fill: rgb(230, 231, 232); stroke: none; fill-opacity: 0.8;"></path><path d="M488.113037109375,359C488.113037109375,399,488.113037109375,399,488.113037109375,439L509.5408935546875,439C509.5408935546875,399,509.5408935546875,399,509.5408935546875,359Z" class="GeneLink" style="fill: rgb(226, 31, 76); stroke: none; fill-opacity: 0.8;"></path><path d="M488.1131591796875,279C488.1131591796875,319,488.113037109375,319,488.113037109375,359L509.5408935546875,359C509.5408935546875,319,509.5408935546875,319,509.5408935546875,279Z" class="GeneLink" style="fill: rgb(226, 31, 76); stroke: none; fill-opacity: 0.8;"></path></g><g transform="translate(0,0)"><g transform="translate(50,5)"><line class="baseline" x1="0" y1="35" x2="900" y2="35" style="stroke: grey; stroke-width: 1;"></line></g><g transform="translate(50, 5)"><path d="M 5,0
+                     H 66.42629026195
+                     A 5,5 0 0 1 71.42629026195,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42629026195,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 17.30103806228284, 35) translate(17.30103806228284, 23.75)" fill="#e6e7e8" class="gene" id="Homo_sapiens-gene-0" rowID="1" start="87472973" end="87616835" strand="forward" cluster="Homo_sapiens" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42629026195
+                     A 5,5 0 0 1 71.42629026195,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42629026195,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 168.09003855696923, 35) translate(168.09003855696923, 23.75)" fill="#e6e7e8" class="gene" id="Homo_sapiens-gene-1" rowID="2" start="87776682" end="87632820" strand="reverse" cluster="Homo_sapiens" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42678675365917
+                     A 5,5 0 0 1 71.42678675365917,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42678675365917,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 176.02596203604648, 35) translate(176.02596203604648, 23.75)" fill="#e6e7e8" class="gene" id="Homo_sapiens-gene-2" rowID="3" start="87792666" end="87936529" strand="forward" cluster="Homo_sapiens" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42629026194996
+                     A 5,5 0 0 1 71.42629026194996,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42629026194996,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 326.8149625307328, 35) translate(326.8149625307328, 23.75)" fill="#e6e7e8" class="gene" id="Homo_sapiens-gene-3" rowID="4" start="88096375" end="87952513" strand="reverse" cluster="Homo_sapiens" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42629026195004
+                     A 5,5 0 0 1 71.42629026195004,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42629026195004,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 334.75138250151923, 35) translate(334.75138250151923, 23.75)" fill="#e6e7e8" class="gene" id="Homo_sapiens-gene-4" rowID="5" start="88112360" end="88256222" strand="forward" cluster="Homo_sapiens" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42629026195004
+                     A 5,5 0 0 1 71.42629026195004,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42629026195004,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 485.54038299620566, 35) translate(485.54038299620566, 23.75)" fill="#e21f4c" class="gene" id="Homo_sapiens-gene-5" rowID="6" start="88416069" end="88272207" strand="reverse" cluster="Homo_sapiens" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42629026194999
+                     A 5,5 0 0 1 71.42629026194999,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42629026194999,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 564.9025967372329, 35) translate(564.9025967372329, 23.75)" fill="#e6e7e8" class="gene" id="Homo_sapiens-gene-6" rowID="7" start="88575915" end="88432053" strand="reverse" cluster="Homo_sapiens" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42629026195004
+                     A 5,5 0 0 1 71.42629026195004,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42629026195004,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 572.8390167080192, 35) translate(572.8390167080192, 23.75)" fill="#f28da5" class="gene" id="Homo_sapiens-gene-7" rowID="8" start="88591900" end="88735762" strand="forward" cluster="Homo_sapiens" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42629026195004
+                     A 5,5 0 0 1 71.42629026195004,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42629026195004,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 652.2017269407556, 35) translate(652.2017269407556, 23.75)" fill="#e6e7e8" class="gene" id="Homo_sapiens-gene-8" rowID="9" start="88751747" end="88895609" strand="forward" cluster="Homo_sapiens" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42629026195004
+                     A 5,5 0 0 1 71.42629026195004,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42629026195004,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 802.9907274354421, 35) translate(802.9907274354421, 23.75)" fill="#f28da5" class="gene" id="Homo_sapiens-gene-9" rowID="10" start="89055456" end="88911594" strand="reverse" cluster="Homo_sapiens" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42629026194993
+                     A 5,5 0 0 1 71.42629026194993,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42629026194993,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 882.3529411764692, 35) translate(882.3529411764692, 23.75)" fill="#e6e7e8" class="gene" id="Homo_sapiens-gene-10" rowID="11" start="89215302" end="89071440" strand="reverse" cluster="Homo_sapiens" style="stroke-width: 1; stroke: black; cursor: default;"></path></g><g transform="translate(50, 5)"><circle cx="677.2009285324397" cy="35" position="88751747" r="1" cluster="Homo_sapiens" visibility="hidden" groupColor="#e6e7e8" linkID="0-23" class="link-marker"></circle><circle cx="698.6288156110217" cy="35" position="88895609" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-23" cluster="Homo_sapiens" r="1"></circle><circle cx="597.8382182997032" cy="35" position="88591900" r="1" cluster="Homo_sapiens" visibility="hidden" groupColor="#f28da5" linkID="0-24" class="link-marker"></circle><circle cx="619.2661053782853" cy="35" position="88735762" class="link-marker" groupColor="#f28da5" visibility="hidden" linkID="0-24" cluster="Homo_sapiens" r="1"></circle><circle cx="539.9033951455489" cy="35" position="88575915" r="1" cluster="Homo_sapiens" visibility="hidden" groupColor="#e6e7e8" linkID="0-25" class="link-marker"></circle><circle cx="518.4755080669669" cy="35" position="88432053" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-25" cluster="Homo_sapiens" r="1"></circle><circle cx="460.54118140452164" cy="35" position="88416069" r="1" cluster="Homo_sapiens" visibility="hidden" groupColor="#e21f4c" linkID="0-26" class="link-marker"></circle><circle cx="439.11329432593965" cy="35" position="88272207" class="link-marker" groupColor="#e21f4c" visibility="hidden" linkID="0-26" cluster="Homo_sapiens" r="1"></circle><circle cx="359.75058409320326" cy="35" position="88112360" r="1" cluster="Homo_sapiens" visibility="hidden" groupColor="#e6e7e8" linkID="0-27" class="link-marker"></circle><circle cx="381.17847117178525" cy="35" position="88256222" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-27" cluster="Homo_sapiens" r="1"></circle><circle cx="301.8157609390489" cy="35" position="88096375" r="1" cluster="Homo_sapiens" visibility="hidden" groupColor="#e6e7e8" linkID="0-28" class="link-marker"></circle><circle cx="280.3878738604668" cy="35" position="87952513" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-28" cluster="Homo_sapiens" r="1"></circle><circle cx="201.02533739982567" cy="35" position="87792666" r="1" cluster="Homo_sapiens" visibility="hidden" groupColor="#e6e7e8" linkID="0-29" class="link-marker"></circle><circle cx="222.4533734259264" cy="35" position="87936529" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-29" cluster="Homo_sapiens" r="1"></circle><circle cx="143.09083696528526" cy="35" position="87776682" r="1" cluster="Homo_sapiens" visibility="hidden" groupColor="#e6e7e8" linkID="0-30" class="link-marker"></circle><circle cx="121.66294988670322" cy="35" position="87632820" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-30" cluster="Homo_sapiens" r="1"></circle><circle cx="42.30023965396682" cy="35" position="87472973" r="1" cluster="Homo_sapiens" visibility="hidden" groupColor="#e6e7e8" linkID="0-31" class="link-marker"></circle><circle cx="63.72812673254886" cy="35" position="87616835" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-31" cluster="Homo_sapiens" r="1"></circle></g><g transform="translate(50,5)"><g transform="translate(0,3.500000000000003)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle"><path class="domain" stroke="none" d="M0.5,-6V0.5H900.5V-6"></path></g><g transform="translate(0,52.5)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle"><path class="domain" stroke="none" d="M0.5,6V0.5H900.5V6"></path><g class="tick" opacity="1" transform="translate(53.01418319325784,0)" rowID="1"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">87.54M</text></g><g class="tick" opacity="1" transform="translate(132.37689342599424,0)" rowID="2"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">87.70M</text></g><g class="tick" opacity="1" transform="translate(211.73935541287602,0)" rowID="3"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">87.86M</text></g><g class="tick" opacity="1" transform="translate(291.10181739975786,0)" rowID="4"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">88.02M</text></g><g class="tick" opacity="1" transform="translate(370.46452763249425,0)" rowID="5"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">88.18M</text></g><g class="tick" opacity="1" transform="translate(449.82723786523064,0)" rowID="6"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">88.34M</text></g><g class="tick" opacity="1" transform="translate(529.1894516062579,0)" rowID="7"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">88.50M</text></g><g class="tick" opacity="1" transform="translate(608.5521618389943,0)" rowID="8"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">88.66M</text></g><g class="tick" opacity="1" transform="translate(687.9148720717307,0)" rowID="9"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">88.82M</text></g><g class="tick" opacity="1" transform="translate(767.277582304467,0)" rowID="10"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">88.98M</text></g><g class="tick" opacity="1" transform="translate(846.6397960454942,0)" rowID="11"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">89.14M</text></g></g></g><g transform="translate(50,5)"><text id="cluster-Homo_sapiens-label-0" rowID="1" class="label" x="53.01418319325784" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 53.01418319325784, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">SLC35A1</text><text id="cluster-Homo_sapiens-label-1" rowID="2" class="label" x="132.37689342599424" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 132.37689342599424, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">RARS2</text><text id="cluster-Homo_sapiens-label-2" rowID="3" class="label" x="211.73935541287602" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 211.73935541287602, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">ORC3</text><text id="cluster-Homo_sapiens-label-3" rowID="4" class="label" x="291.10181739975786" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 291.10181739975786, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">AKIRIN2</text><text id="cluster-Homo_sapiens-label-4" rowID="5" class="label" x="370.46452763249425" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 370.46452763249425, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">SPACA1</text><text id="cluster-Homo_sapiens-label-5" rowID="6" class="label" x="449.82723786523064" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 449.82723786523064, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">CNR1</text><text id="cluster-Homo_sapiens-label-6" rowID="7" class="label" x="529.1894516062579" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 529.1894516062579, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">RNGTT</text><text id="cluster-Homo_sapiens-label-7" rowID="8" class="label" x="608.5521618389943" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 608.5521618389943, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">PNRC1</text><text id="cluster-Homo_sapiens-label-8" rowID="9" class="label" x="687.9148720717307" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 687.9148720717307, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">PM20D2</text><text id="cluster-Homo_sapiens-label-9" rowID="10" class="label" x="767.277582304467" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 767.277582304467, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">SRSF12</text><text id="cluster-Homo_sapiens-label-10" rowID="11" class="label" x="846.6397960454942" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 846.6397960454942, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">GABRR1</text></g></g><g transform="translate(0,80)"><g transform="translate(50,5)"><line class="baseline" x1="0" y1="35" x2="900" y2="35" style="stroke: grey; stroke-width: 1;"></line></g><g transform="translate(50, 5)"><path d="M 5,0
+                     H 66.42655375129138
+                     A 5,5 0 0 1 71.42655375129138,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42655375129138,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 88.72759181357675, 35) translate(88.72759181357675, 23.75)" fill="#e6e7e8" class="gene" id="Gallus_gallus-gene-0" rowID="12" start="75543692" end="75488609" strand="reverse" cluster="Gallus_gallus" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42655375129137
+                     A 5,5 0 0 1 71.42655375129137,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42655375129137,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 168.08999707909035, 35) translate(168.08999707909035, 23.75)" fill="#f28da5" class="gene" id="Gallus_gallus-gene-1" rowID="13" start="75604895" end="75549812" strand="reverse" cluster="Gallus_gallus" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42655375129141
+                     A 5,5 0 0 1 71.42655375129141,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42655375129141,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 176.0258485933126, 35) translate(176.0258485933126, 23.75)" fill="#e6e7e8" class="gene" id="Gallus_gallus-gene-2" rowID="14" start="75611015" end="75666098" strand="forward" cluster="Gallus_gallus" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42655375129135
+                     A 5,5 0 0 1 71.42655375129135,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42655375129135,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 255.3882538588262, 35) translate(255.3882538588262, 23.75)" fill="#e6e7e8" class="gene" id="Gallus_gallus-gene-3" rowID="15" start="75672218" end="75727301" strand="forward" cluster="Gallus_gallus" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42655375129135
+                     A 5,5 0 0 1 71.42655375129135,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42655375129135,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 334.75065912433985, 35) translate(334.75065912433985, 23.75)" fill="#e6e7e8" class="gene" id="Gallus_gallus-gene-4" rowID="16" start="75733421" end="75788504" strand="forward" cluster="Gallus_gallus" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42655375129135
+                     A 5,5 0 0 1 71.42655375129135,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42655375129135,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 414.11306438985343, 35) translate(414.11306438985343, 23.75)" fill="#e21f4c" class="gene" id="Gallus_gallus-gene-5" rowID="17" start="75794624" end="75849707" strand="forward" cluster="Gallus_gallus" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42525704352767
+                     A 5,5 0 0 1 71.42525704352767,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42525704352767,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 564.9020234066585, 35) translate(564.9020234066585, 23.75)" fill="#e6e7e8" class="gene" id="Gallus_gallus-gene-6" rowID="18" start="75910910" end="75855828" strand="reverse" cluster="Gallus_gallus" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42525704352761
+                     A 5,5 0 0 1 71.42525704352761,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42525704352761,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 572.8391716286444, 35) translate(572.8391716286444, 23.75)" fill="#e6e7e8" class="gene" id="Gallus_gallus-gene-7" rowID="19" start="75917031" end="75972113" strand="forward" cluster="Gallus_gallus" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.4265537512913
+                     A 5,5 0 0 1 71.4265537512913,5
+                     V 17.5
+                     A 5,5 0 0 1 66.4265537512913,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 723.6281306454493, 35) translate(723.6281306454493, 23.75)" fill="#e6e7e8" class="gene" id="Gallus_gallus-gene-8" rowID="20" start="76033317" end="75978234" strand="reverse" cluster="Gallus_gallus" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42655375129141
+                     A 5,5 0 0 1 71.42655375129141,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42655375129141,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 731.5639821596717, 35) translate(731.5639821596717, 23.75)" fill="#e6e7e8" class="gene" id="Gallus_gallus-gene-9" rowID="21" start="76039437" end="76094520" strand="forward" cluster="Gallus_gallus" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42655375129141
+                     A 5,5 0 0 1 71.42655375129141,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42655375129141,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 882.3529411764766, 35) translate(882.3529411764766, 23.75)" fill="#e6e7e8" class="gene" id="Gallus_gallus-gene-10" rowID="22" start="76155723" end="76100640" strand="reverse" cluster="Gallus_gallus" style="stroke-width: 1; stroke: black; cursor: default;"></path></g><g transform="translate(50, 5)"><circle cx="857.3536473635286" cy="35" position="76155723" r="1" cluster="Gallus_gallus" visibility="hidden" groupColor="#e6e7e8" linkID="0-13" class="link-marker"></circle><circle cx="835.9256812381334" cy="35" position="76100640" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-13" cluster="Gallus_gallus" r="1"></circle><circle cx="756.5632759726199" cy="35" position="76039437" r="1" cluster="Gallus_gallus" visibility="hidden" groupColor="#e6e7e8" linkID="0-14" class="link-marker"></circle><circle cx="777.9912420980149" cy="35" position="76094520" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-14" cluster="Gallus_gallus" r="1"></circle><circle cx="698.6288368325013" cy="35" position="76033317" r="1" cluster="Gallus_gallus" visibility="hidden" groupColor="#e6e7e8" linkID="0-15" class="link-marker"></circle><circle cx="677.2008707071061" cy="35" position="75978234" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-15" cluster="Gallus_gallus" r="1"></circle><circle cx="597.8380115938829" cy="35" position="75917031" r="1" cluster="Gallus_gallus" visibility="hidden" groupColor="#e6e7e8" linkID="0-16" class="link-marker"></circle><circle cx="619.2655887069335" cy="35" position="75972113" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-16" cluster="Gallus_gallus" r="1"></circle><circle cx="539.9031834414199" cy="35" position="75910910" r="1" cluster="Gallus_gallus" visibility="hidden" groupColor="#e6e7e8" linkID="0-17" class="link-marker"></circle><circle cx="518.4756063283694" cy="35" position="75855828" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-17" cluster="Gallus_gallus" r="1"></circle><circle cx="439.11235820280154" cy="35" position="75794624" r="1" cluster="Gallus_gallus" visibility="hidden" groupColor="#e21f4c" linkID="0-18" class="link-marker"></circle><circle cx="460.54032432819673" cy="35" position="75849707" class="link-marker" groupColor="#e21f4c" visibility="hidden" linkID="0-18" cluster="Gallus_gallus" r="1"></circle><circle cx="280.3875476717743" cy="35" position="75672218" r="1" cluster="Gallus_gallus" visibility="hidden" groupColor="#e6e7e8" linkID="0-19" class="link-marker"></circle><circle cx="301.8155137971695" cy="35" position="75727301" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-19" cluster="Gallus_gallus" r="1"></circle><circle cx="201.02514240626073" cy="35" position="75611015" r="1" cluster="Gallus_gallus" visibility="hidden" groupColor="#e6e7e8" linkID="0-20" class="link-marker"></circle><circle cx="222.45310853165586" cy="35" position="75666098" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-20" cluster="Gallus_gallus" r="1"></circle><circle cx="143.09070326614227" cy="35" position="75604895" r="1" cluster="Gallus_gallus" visibility="hidden" groupColor="#f28da5" linkID="0-21" class="link-marker"></circle><circle cx="121.66273714074711" cy="35" position="75549812" class="link-marker" groupColor="#f28da5" visibility="hidden" linkID="0-21" cluster="Gallus_gallus" r="1"></circle><circle cx="63.72829800062863" cy="35" position="75543692" r="1" cluster="Gallus_gallus" visibility="hidden" groupColor="#e6e7e8" linkID="0-22" class="link-marker"></circle><circle cx="42.30033187523349" cy="35" position="75488609" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-22" cluster="Gallus_gallus" r="1"></circle><circle cx="63.72829800062863" cy="35" position="75543692" class="link-marker" cluster="Gallus_gallus" visibility="hidden" groupColor="#e6e7e8" linkID="0-23" r="1"></circle><circle cx="42.30033187523349" cy="35" position="75488609" class="link-marker" linkID="0-23" cluster="Gallus_gallus" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="143.09070326614227" cy="35" position="75604895" class="link-marker" cluster="Gallus_gallus" visibility="hidden" groupColor="#e6e7e8" linkID="0-24" r="1"></circle><circle cx="121.66273714074711" cy="35" position="75549812" class="link-marker" linkID="0-24" cluster="Gallus_gallus" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="280.3875476717743" cy="35" position="75672218" class="link-marker" cluster="Gallus_gallus" visibility="hidden" groupColor="#e6e7e8" linkID="0-25" r="1"></circle><circle cx="301.8155137971695" cy="35" position="75727301" class="link-marker" linkID="0-25" cluster="Gallus_gallus" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="439.11235820280154" cy="35" position="75794624" class="link-marker" cluster="Gallus_gallus" visibility="hidden" groupColor="#e6e7e8" linkID="0-26" r="1"></circle><circle cx="460.54032432819673" cy="35" position="75849707" class="link-marker" linkID="0-26" cluster="Gallus_gallus" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="539.9031834414199" cy="35" position="75910910" class="link-marker" cluster="Gallus_gallus" visibility="hidden" groupColor="#e6e7e8" linkID="0-27" r="1"></circle><circle cx="518.4756063283694" cy="35" position="75855828" class="link-marker" linkID="0-27" cluster="Gallus_gallus" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="597.8380115938829" cy="35" position="75917031" class="link-marker" cluster="Gallus_gallus" visibility="hidden" groupColor="#e6e7e8" linkID="0-28" r="1"></circle><circle cx="619.2655887069335" cy="35" position="75972113" class="link-marker" linkID="0-28" cluster="Gallus_gallus" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="698.6288368325013" cy="35" position="76033317" class="link-marker" cluster="Gallus_gallus" visibility="hidden" groupColor="#e6e7e8" linkID="0-29" r="1"></circle><circle cx="677.2008707071061" cy="35" position="75978234" class="link-marker" linkID="0-29" cluster="Gallus_gallus" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="756.5632759726199" cy="35" position="76039437" class="link-marker" cluster="Gallus_gallus" visibility="hidden" groupColor="#e6e7e8" linkID="0-30" r="1"></circle><circle cx="777.9912420980149" cy="35" position="76094520" class="link-marker" linkID="0-30" cluster="Gallus_gallus" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="857.3536473635286" cy="35" position="76155723" class="link-marker" cluster="Gallus_gallus" visibility="hidden" groupColor="#e6e7e8" linkID="0-31" r="1"></circle><circle cx="835.9256812381334" cy="35" position="76100640" class="link-marker" linkID="0-31" cluster="Gallus_gallus" visibility="hidden" groupColor="#e6e7e8" r="1"></circle></g><g transform="translate(50,5)"><g transform="translate(0,3.500000000000003)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle"><path class="domain" stroke="none" d="M0.5,-6V0.5H900.5V-6"></path></g><g transform="translate(0,52.5)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle"><path class="domain" stroke="none" d="M0.5,6V0.5H900.5V6"></path><g class="tick" opacity="1" transform="translate(53.01431493793106,0)" rowID="12"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">75.52M</text></g><g class="tick" opacity="1" transform="translate(132.37672020344468,0)" rowID="13"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">75.58M</text></g><g class="tick" opacity="1" transform="translate(211.73912546895826,0)" rowID="14"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">75.64M</text></g><g class="tick" opacity="1" transform="translate(291.1015307344719,0)" rowID="15"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">75.70M</text></g><g class="tick" opacity="1" transform="translate(370.46393599998555,0)" rowID="16"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">75.76M</text></g><g class="tick" opacity="1" transform="translate(449.82634126549914,0)" rowID="17"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">75.82M</text></g><g class="tick" opacity="1" transform="translate(529.1893948848946,0)" rowID="18"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">75.88M</text></g><g class="tick" opacity="1" transform="translate(608.5518001504082,0)" rowID="19"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">75.94M</text></g><g class="tick" opacity="1" transform="translate(687.9148537698037,0)" rowID="20"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">76.01M</text></g><g class="tick" opacity="1" transform="translate(767.2772590353173,0)" rowID="21"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">76.07M</text></g><g class="tick" opacity="1" transform="translate(846.639664300831,0)" rowID="22"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">76.13M</text></g></g></g><g transform="translate(50,5)"><text id="cluster-Gallus_gallus-label-0" rowID="12" class="label" x="53.01431493793106" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 53.01431493793106, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">PM20D2</text><text id="cluster-Gallus_gallus-label-1" rowID="13" class="label" x="132.37672020344468" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 132.37672020344468, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">PNRC1</text><text id="cluster-Gallus_gallus-label-2" rowID="14" class="label" x="211.73912546895826" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 211.73912546895826, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">BORCS6</text><text id="cluster-Gallus_gallus-label-3" rowID="15" class="label" x="291.1015307344719" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 291.1015307344719, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">RNGTT</text><text id="cluster-Gallus_gallus-label-4" rowID="16" class="label" x="370.46393599998555" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 370.46393599998555, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">COWN</text><text id="cluster-Gallus_gallus-label-5" rowID="17" class="label" x="449.82634126549914" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 449.82634126549914, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">CNR1</text><text id="cluster-Gallus_gallus-label-6" rowID="18" class="label" x="529.1893948848946" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 529.1893948848946, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">SPACA1</text><text id="cluster-Gallus_gallus-label-7" rowID="19" class="label" x="608.5518001504082" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 608.5518001504082, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">AKIRIN2</text><text id="cluster-Gallus_gallus-label-8" rowID="20" class="label" x="687.9148537698037" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 687.9148537698037, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">ORC3</text><text id="cluster-Gallus_gallus-label-9" rowID="21" class="label" x="767.2772590353173" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 767.2772590353173, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">RARS2</text><text id="cluster-Gallus_gallus-label-10" rowID="22" class="label" x="846.639664300831" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 846.639664300831, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">SLC35A1</text></g></g><g transform="translate(0,160)"><g transform="translate(50,5)"><line class="baseline" x1="0" y1="35" x2="900" y2="35" style="stroke: grey; stroke-width: 1;"></line></g><g transform="translate(50, 5)"><path d="M 5,0
+                     H 66.42619890462555
+                     A 5,5 0 0 1 71.42619890462555,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42619890462555,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 17.30103806228241, 35) translate(17.30103806228241, 23.75)" fill="#e6e7e8" class="gene" id="Chelonia_mydas-gene-0" rowID="23" start="64995481" end="65107792" strand="forward" cluster="Chelonia_mydas" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42619890462555
+                     A 5,5 0 0 1 71.42619890462555,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42619890462555,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 168.08968019426968, 35) translate(168.08968019426968, 23.75)" fill="#e6e7e8" class="gene" id="Chelonia_mydas-gene-1" rowID="24" start="65232582" end="65120271" strand="reverse" cluster="Chelonia_mydas" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42683487259757
+                     A 5,5 0 0 1 71.42683487259757,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42683487259757,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 176.02592451700585, 35) translate(176.02592451700585, 23.75)" fill="#e6e7e8" class="gene" id="Chelonia_mydas-gene-2" rowID="25" start="65245061" end="65357373" strand="forward" cluster="Chelonia_mydas" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42619890462558
+                     A 5,5 0 0 1 71.42619890462558,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42619890462558,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 326.81520261696517, 35) translate(326.81520261696517, 23.75)" fill="#e6e7e8" class="gene" id="Chelonia_mydas-gene-3" rowID="26" start="65482163" end="65369852" strand="reverse" cluster="Chelonia_mydas" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.4261989046255
+                     A 5,5 0 0 1 71.4261989046255,5
+                     V 17.5
+                     A 5,5 0 0 1 66.4261989046255,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 334.75144693970134, 35) translate(334.75144693970134, 23.75)" fill="#e6e7e8" class="gene" id="Chelonia_mydas-gene-4" rowID="27" start="65494642" end="65606953" strand="forward" cluster="Chelonia_mydas" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42619890462555
+                     A 5,5 0 0 1 71.42619890462555,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42619890462555,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 485.54008907168856, 35) translate(485.54008907168856, 23.75)" fill="#e21f4c" class="gene" id="Chelonia_mydas-gene-5" rowID="28" start="65731743" end="65619432" strand="reverse" cluster="Chelonia_mydas" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42619890462561
+                     A 5,5 0 0 1 71.42619890462561,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42619890462561,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 564.9025322990503, 35) translate(564.9025322990503, 23.75)" fill="#e6e7e8" class="gene" id="Chelonia_mydas-gene-6" rowID="29" start="65856533" end="65744222" strand="reverse" cluster="Chelonia_mydas" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42619890462561
+                     A 5,5 0 0 1 71.42619890462561,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42619890462561,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 644.2649755264121, 35) translate(644.2649755264121, 23.75)" fill="#e6e7e8" class="gene" id="Chelonia_mydas-gene-7" rowID="30" start="65981323" end="65869012" strand="reverse" cluster="Chelonia_mydas" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42683487259762
+                     A 5,5 0 0 1 71.42683487259762,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42683487259762,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 652.2012198491482, 35) translate(652.2012198491482, 23.75)" fill="#f28da5" class="gene" id="Chelonia_mydas-gene-8" rowID="31" start="65993802" end="66106114" strand="forward" cluster="Chelonia_mydas" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42619890462561
+                     A 5,5 0 0 1 71.42619890462561,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42619890462561,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 731.5642990444819, 35) translate(731.5642990444819, 23.75)" fill="#e6e7e8" class="gene" id="Chelonia_mydas-gene-9" rowID="32" start="66118593" end="66230904" strand="forward" cluster="Chelonia_mydas" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.4261989046255
+                     A 5,5 0 0 1 71.4261989046255,5
+                     V 17.5
+                     A 5,5 0 0 1 66.4261989046255,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 882.3529411764691, 35) translate(882.3529411764691, 23.75)" fill="#e6e7e8" class="gene" id="Chelonia_mydas-gene-10" rowID="33" start="66355694" end="66243383" strand="reverse" cluster="Chelonia_mydas" style="stroke-width: 1; stroke: black; cursor: default;"></path></g><g transform="translate(50, 5)"><circle cx="857.3537715598493" cy="35" position="66355694" r="1" cluster="Chelonia_mydas" visibility="hidden" groupColor="#e6e7e8" linkID="0-32" class="link-marker"></circle><circle cx="835.9259118884636" cy="35" position="66243383" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-32" cluster="Chelonia_mydas" r="1"></circle><circle cx="756.5634686611018" cy="35" position="66118593" r="1" cluster="Chelonia_mydas" visibility="hidden" groupColor="#e6e7e8" linkID="0-33" class="link-marker"></circle><circle cx="777.9913283324876" cy="35" position="66230904" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-33" cluster="Chelonia_mydas" r="1"></circle><circle cx="539.9033626824304" cy="35" position="65856533" r="1" cluster="Chelonia_mydas" visibility="hidden" groupColor="#e6e7e8" linkID="0-34" class="link-marker"></circle><circle cx="518.4755030110447" cy="35" position="65744222" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-34" cluster="Chelonia_mydas" r="1"></circle><circle cx="460.54091945506866" cy="35" position="65731743" r="1" cluster="Chelonia_mydas" visibility="hidden" groupColor="#e21f4c" linkID="0-35" class="link-marker"></circle><circle cx="439.1130597836829" cy="35" position="65619432" class="link-marker" groupColor="#e21f4c" visibility="hidden" linkID="0-35" cluster="Chelonia_mydas" r="1"></circle><circle cx="301.81603300034527" cy="35" position="65482163" r="1" cluster="Chelonia_mydas" visibility="hidden" groupColor="#e6e7e8" linkID="0-36" class="link-marker"></circle><circle cx="280.3881733289595" cy="35" position="65369852" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-36" cluster="Chelonia_mydas" r="1"></circle><circle cx="201.0253167224169" cy="35" position="65245061" r="1" cluster="Chelonia_mydas" visibility="hidden" groupColor="#e6e7e8" linkID="0-37" class="link-marker"></circle><circle cx="222.4533671841924" cy="35" position="65357373" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-37" cluster="Chelonia_mydas" r="1"></circle><circle cx="143.0905105776498" cy="35" position="65232582" r="1" cluster="Chelonia_mydas" visibility="hidden" groupColor="#e6e7e8" linkID="0-38" class="link-marker"></circle><circle cx="121.662650906264" cy="35" position="65120271" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-38" cluster="Chelonia_mydas" r="1"></circle><circle cx="42.300207678902304" cy="35" position="64995481" r="1" cluster="Chelonia_mydas" visibility="hidden" groupColor="#e6e7e8" linkID="0-39" class="link-marker"></circle><circle cx="63.728067350288065" cy="35" position="65107792" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-39" cluster="Chelonia_mydas" r="1"></circle><circle cx="42.300207678902304" cy="35" position="64995481" class="link-marker" cluster="Chelonia_mydas" visibility="hidden" groupColor="#e6e7e8" linkID="0-13" r="1"></circle><circle cx="63.728067350288065" cy="35" position="65107792" class="link-marker" linkID="0-13" cluster="Chelonia_mydas" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="143.0905105776498" cy="35" position="65232582" class="link-marker" cluster="Chelonia_mydas" visibility="hidden" groupColor="#e6e7e8" linkID="0-14" r="1"></circle><circle cx="121.662650906264" cy="35" position="65120271" class="link-marker" linkID="0-14" cluster="Chelonia_mydas" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="201.0253167224169" cy="35" position="65245061" class="link-marker" cluster="Chelonia_mydas" visibility="hidden" groupColor="#e6e7e8" linkID="0-15" r="1"></circle><circle cx="222.4533671841924" cy="35" position="65357373" class="link-marker" linkID="0-15" cluster="Chelonia_mydas" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="301.81603300034527" cy="35" position="65482163" class="link-marker" cluster="Chelonia_mydas" visibility="hidden" groupColor="#e6e7e8" linkID="0-16" r="1"></circle><circle cx="280.3881733289595" cy="35" position="65369852" class="link-marker" linkID="0-16" cluster="Chelonia_mydas" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="359.7506165563212" cy="35" position="65494642" class="link-marker" cluster="Chelonia_mydas" visibility="hidden" groupColor="#e6e7e8" linkID="0-17" r="1"></circle><circle cx="381.17847622770694" cy="35" position="65606953" class="link-marker" linkID="0-17" cluster="Chelonia_mydas" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="460.54091945506866" cy="35" position="65731743" class="link-marker" cluster="Chelonia_mydas" visibility="hidden" groupColor="#e6e7e8" linkID="0-18" r="1"></circle><circle cx="439.1130597836829" cy="35" position="65619432" class="link-marker" linkID="0-18" cluster="Chelonia_mydas" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="539.9033626824304" cy="35" position="65856533" class="link-marker" cluster="Chelonia_mydas" visibility="hidden" groupColor="#e6e7e8" linkID="0-19" r="1"></circle><circle cx="518.4755030110447" cy="35" position="65744222" class="link-marker" linkID="0-19" cluster="Chelonia_mydas" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="619.2658059097922" cy="35" position="65981323" class="link-marker" cluster="Chelonia_mydas" visibility="hidden" groupColor="#e6e7e8" linkID="0-20" r="1"></circle><circle cx="597.8379462384063" cy="35" position="65869012" class="link-marker" linkID="0-20" cluster="Chelonia_mydas" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="677.2006120545593" cy="35" position="65993802" class="link-marker" cluster="Chelonia_mydas" visibility="hidden" groupColor="#e6e7e8" linkID="0-21" r="1"></circle><circle cx="698.6286625163347" cy="35" position="66106114" class="link-marker" linkID="0-21" cluster="Chelonia_mydas" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="756.5634686611018" cy="35" position="66118593" class="link-marker" cluster="Chelonia_mydas" visibility="hidden" groupColor="#e6e7e8" linkID="0-22" r="1"></circle><circle cx="777.9913283324876" cy="35" position="66230904" class="link-marker" linkID="0-22" cluster="Chelonia_mydas" visibility="hidden" groupColor="#e6e7e8" r="1"></circle></g><g transform="translate(50,5)"><g transform="translate(0,3.500000000000003)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle"><path class="domain" stroke="none" d="M0.5,-6V0.5H900.5V-6"></path></g><g transform="translate(0,52.5)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle"><path class="domain" stroke="none" d="M0.5,6V0.5H900.5V6"></path><g class="tick" opacity="1" transform="translate(53.014137514595184,0)" rowID="23"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">65.05M</text></g><g class="tick" opacity="1" transform="translate(132.37658074195693,0)" rowID="24"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">65.18M</text></g><g class="tick" opacity="1" transform="translate(211.73934195330463,0)" rowID="25"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">65.30M</text></g><g class="tick" opacity="1" transform="translate(291.10210316465236,0)" rowID="26"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">65.43M</text></g><g class="tick" opacity="1" transform="translate(370.4645463920141,0)" rowID="27"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">65.55M</text></g><g class="tick" opacity="1" transform="translate(449.8269896193758,0)" rowID="28"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">65.68M</text></g><g class="tick" opacity="1" transform="translate(529.1894328467375,0)" rowID="29"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">65.80M</text></g><g class="tick" opacity="1" transform="translate(608.5518760740991,0)" rowID="30"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">65.93M</text></g><g class="tick" opacity="1" transform="translate(687.9146372854469,0)" rowID="31"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">66.05M</text></g><g class="tick" opacity="1" transform="translate(767.2773984967947,0)" rowID="32"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">66.17M</text></g><g class="tick" opacity="1" transform="translate(846.6398417241564,0)" rowID="33"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">66.30M</text></g></g></g><g transform="translate(50,5)"><text id="cluster-Chelonia_mydas-label-0" rowID="23" class="label" x="53.014137514595184" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 53.014137514595184, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">SLC35A1</text><text id="cluster-Chelonia_mydas-label-1" rowID="24" class="label" x="132.37658074195693" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 132.37658074195693, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">RARS2</text><text id="cluster-Chelonia_mydas-label-2" rowID="25" class="label" x="211.73934195330463" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 211.73934195330463, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">ORC3</text><text id="cluster-Chelonia_mydas-label-3" rowID="26" class="label" x="291.10210316465236" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 291.10210316465236, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">AKIRIN2</text><text id="cluster-Chelonia_mydas-label-4" rowID="27" class="label" x="370.4645463920141" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 370.4645463920141, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">SPACA1</text><text id="cluster-Chelonia_mydas-label-5" rowID="28" class="label" x="449.8269896193758" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 449.8269896193758, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">CNR1</text><text id="cluster-Chelonia_mydas-label-6" rowID="29" class="label" x="529.1894328467375" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 529.1894328467375, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">RNGTT</text><text id="cluster-Chelonia_mydas-label-7" rowID="30" class="label" x="608.5518760740991" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 608.5518760740991, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">BORCS6</text><text id="cluster-Chelonia_mydas-label-8" rowID="31" class="label" x="687.9146372854469" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 687.9146372854469, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">PNRC1</text><text id="cluster-Chelonia_mydas-label-9" rowID="32" class="label" x="767.2773984967947" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 767.2773984967947, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">PM20D2</text><text id="cluster-Chelonia_mydas-label-10" rowID="33" class="label" x="846.6398417241564" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 846.6398417241564, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">GABRR1</text></g></g><g transform="translate(0,240)"><g transform="translate(50,5)"><line class="baseline" x1="0" y1="35" x2="900" y2="35" style="stroke: grey; stroke-width: 1;"></line></g><g transform="translate(50, 5)"><path d="M 5,0
+                     H 66.42581879484379
+                     A 5,5 0 0 1 71.42581879484379,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42581879484379,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 17.30103806227656, 35) translate(17.30103806227656, 23.75)" fill="#e6e7e8" class="gene" id="Xenopus_tropicalis-gene-0" rowID="34" start="86155208" end="86225446" strand="forward" cluster="Xenopus_tropicalis" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42581879484379
+                     A 5,5 0 0 1 71.42581879484379,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42581879484379,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 96.66384987647962, 35) translate(96.66384987647962, 23.75)" fill="#e6e7e8" class="gene" id="Xenopus_tropicalis-gene-1" rowID="35" start="86233251" end="86303489" strand="forward" cluster="Xenopus_tropicalis" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42683570618516
+                     A 5,5 0 0 1 71.42683570618516,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42683570618516,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 247.45248048552648, 35) translate(247.45248048552648, 23.75)" fill="#e6e7e8" class="gene" id="Xenopus_tropicalis-gene-2" rowID="36" start="86381532" end="86311293" strand="reverse" cluster="Xenopus_tropicalis" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42683570618513
+                     A 5,5 0 0 1 71.42683570618513,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42683570618513,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 255.38845659354436, 35) translate(255.38845659354436, 23.75)" fill="#f28da5" class="gene" id="Xenopus_tropicalis-gene-3" rowID="37" start="86389336" end="86459575" strand="forward" cluster="Xenopus_tropicalis" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42581879484379
+                     A 5,5 0 0 1 71.42581879484379,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42581879484379,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 334.75126840774743, 35) translate(334.75126840774743, 23.75)" fill="#e6e7e8" class="gene" id="Xenopus_tropicalis-gene-4" rowID="38" start="86467379" end="86537617" strand="forward" cluster="Xenopus_tropicalis" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42581879484385
+                     A 5,5 0 0 1 71.42581879484385,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42581879484385,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 414.1140802219505, 35) translate(414.1140802219505, 23.75)" fill="#e21f4c" class="gene" id="Xenopus_tropicalis-gene-5" rowID="39" start="86545422" end="86615660" strand="forward" cluster="Xenopus_tropicalis" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42683570618516
+                     A 5,5 0 0 1 71.42683570618516,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42683570618516,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 493.47587512481215, 35) translate(493.47587512481215, 23.75)" fill="#e6e7e8" class="gene" id="Xenopus_tropicalis-gene-6" rowID="40" start="86623464" end="86693703" strand="forward" cluster="Xenopus_tropicalis" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42683570618522
+                     A 5,5 0 0 1 71.42683570618522,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42683570618522,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 644.2655226452005, 35) translate(644.2655226452005, 23.75)" fill="#e6e7e8" class="gene" id="Xenopus_tropicalis-gene-7" rowID="41" start="86771746" end="86701507" strand="reverse" cluster="Xenopus_tropicalis" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42581879484374
+                     A 5,5 0 0 1 71.42581879484374,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42581879484374,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 652.2014987532183, 35) translate(652.2014987532183, 23.75)" fill="#e6e7e8" class="gene" id="Xenopus_tropicalis-gene-8" rowID="42" start="86779550" end="86849788" strand="forward" cluster="Xenopus_tropicalis" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42581879484385
+                     A 5,5 0 0 1 71.42581879484385,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42581879484385,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 802.9901293622652, 35) translate(802.9901293622652, 23.75)" fill="#e6e7e8" class="gene" id="Xenopus_tropicalis-gene-9" rowID="43" start="86927831" end="86857593" strand="reverse" cluster="Xenopus_tropicalis" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.4268357061851
+                     A 5,5 0 0 1 71.4268357061851,5
+                     V 17.5
+                     A 5,5 0 0 1 66.4268357061851,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 882.3529411764682, 35) translate(882.3529411764682, 23.75)" fill="#e6e7e8" class="gene" id="Xenopus_tropicalis-gene-10" rowID="44" start="87005874" end="86935635" strand="reverse" cluster="Xenopus_tropicalis" style="stroke-width: 1; stroke: black; cursor: default;"></path></g><g transform="translate(50, 5)"><circle cx="439.1131168001428" cy="35" position="86545422" r="1" cluster="Xenopus_tropicalis" visibility="hidden" groupColor="#e21f4c" linkID="0-41" class="link-marker"></circle><circle cx="460.54086243860195" cy="35" position="86615660" class="link-marker" groupColor="#e21f4c" visibility="hidden" linkID="0-41" cluster="Xenopus_tropicalis" r="1"></circle><circle cx="121.6628864546719" cy="35" position="86233251" class="link-marker" cluster="Xenopus_tropicalis" visibility="hidden" groupColor="#e6e7e8" linkID="0-32" r="1"></circle><circle cx="143.09063209313112" cy="35" position="86303489" class="link-marker" linkID="0-32" cluster="Xenopus_tropicalis" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="222.4530879883556" cy="35" position="86381532" class="link-marker" cluster="Xenopus_tropicalis" visibility="hidden" groupColor="#e6e7e8" linkID="0-33" r="1"></circle><circle cx="201.0250372765122" cy="35" position="86311293" class="link-marker" linkID="0-33" cluster="Xenopus_tropicalis" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="359.75030498593975" cy="35" position="86467379" class="link-marker" cluster="Xenopus_tropicalis" visibility="hidden" groupColor="#e6e7e8" linkID="0-34" r="1"></circle><circle cx="381.17805062439896" cy="35" position="86537617" class="link-marker" linkID="0-34" cluster="Xenopus_tropicalis" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="439.1131168001428" cy="35" position="86545422" class="link-marker" cluster="Xenopus_tropicalis" visibility="hidden" groupColor="#e6e7e8" linkID="0-35" r="1"></circle><circle cx="460.54086243860195" cy="35" position="86615660" class="link-marker" linkID="0-35" cluster="Xenopus_tropicalis" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="518.475267621983" cy="35" position="86623464" class="link-marker" cluster="Xenopus_tropicalis" visibility="hidden" groupColor="#e6e7e8" linkID="0-36" r="1"></circle><circle cx="539.9033183338264" cy="35" position="86693703" class="link-marker" linkID="0-36" cluster="Xenopus_tropicalis" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="619.2661301480296" cy="35" position="86771746" class="link-marker" cluster="Xenopus_tropicalis" visibility="hidden" groupColor="#e6e7e8" linkID="0-37" r="1"></circle><circle cx="597.8380794361861" cy="35" position="86701507" class="link-marker" linkID="0-37" cluster="Xenopus_tropicalis" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="677.2005353314106" cy="35" position="86779550" class="link-marker" cluster="Xenopus_tropicalis" visibility="hidden" groupColor="#e6e7e8" linkID="0-38" r="1"></circle><circle cx="698.6282809698698" cy="35" position="86849788" class="link-marker" linkID="0-38" cluster="Xenopus_tropicalis" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="777.9910927840729" cy="35" position="86927831" class="link-marker" cluster="Xenopus_tropicalis" visibility="hidden" groupColor="#e6e7e8" linkID="0-39" r="1"></circle><circle cx="756.5633471456136" cy="35" position="86857593" class="link-marker" linkID="0-39" cluster="Xenopus_tropicalis" visibility="hidden" groupColor="#e6e7e8" r="1"></circle></g><g transform="translate(50,5)"><g transform="translate(0,3.500000000000003)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle"><path class="domain" stroke="none" d="M0.5,-6V0.5H900.5V-6"></path></g><g transform="translate(0,52.5)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle"><path class="domain" stroke="none" d="M0.5,6V0.5H900.5V6"></path><g class="tick" opacity="1" transform="translate(53.01394745969846,0)" rowID="34"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">86.19M</text></g><g class="tick" opacity="1" transform="translate(132.3767592739015,0)" rowID="35"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">86.27M</text></g><g class="tick" opacity="1" transform="translate(211.7390626324339,0)" rowID="36"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">86.35M</text></g><g class="tick" opacity="1" transform="translate(291.10187444663694,0)" rowID="37"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">86.42M</text></g><g class="tick" opacity="1" transform="translate(370.4641778051693,0)" rowID="38"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">86.50M</text></g><g class="tick" opacity="1" transform="translate(449.8269896193724,0)" rowID="39"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">86.58M</text></g><g class="tick" opacity="1" transform="translate(529.1892929779048,0)" rowID="40"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">86.66M</text></g><g class="tick" opacity="1" transform="translate(608.5521047921078,0)" rowID="41"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">86.74M</text></g><g class="tick" opacity="1" transform="translate(687.9144081506402,0)" rowID="42"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">86.81M</text></g><g class="tick" opacity="1" transform="translate(767.2772199648432,0)" rowID="43"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">86.89M</text></g><g class="tick" opacity="1" transform="translate(846.6395233233757,0)" rowID="44"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">86.97M</text></g></g></g><g transform="translate(50,5)"><text id="cluster-Xenopus_tropicalis-label-0" rowID="34" class="label" x="53.01394745969846" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 53.01394745969846, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">TY3-G</text><text id="cluster-Xenopus_tropicalis-label-1" rowID="35" class="label" x="132.3767592739015" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 132.3767592739015, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">GABRR1</text><text id="cluster-Xenopus_tropicalis-label-2" rowID="36" class="label" x="211.7390626324339" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 211.7390626324339, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">PM20D2</text><text id="cluster-Xenopus_tropicalis-label-3" rowID="37" class="label" x="291.10187444663694" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 291.10187444663694, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">SRSF12</text><text id="cluster-Xenopus_tropicalis-label-4" rowID="38" class="label" x="370.4641778051693" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 370.4641778051693, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">RNGTT</text><text id="cluster-Xenopus_tropicalis-label-5" rowID="39" class="label" x="449.8269896193724" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 449.8269896193724, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">CNR1</text><text id="cluster-Xenopus_tropicalis-label-6" rowID="40" class="label" x="529.1892929779048" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 529.1892929779048, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">AKIRIN2</text><text id="cluster-Xenopus_tropicalis-label-7" rowID="41" class="label" x="608.5521047921078" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 608.5521047921078, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">ORC3</text><text id="cluster-Xenopus_tropicalis-label-8" rowID="42" class="label" x="687.9144081506402" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 687.9144081506402, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">RARS2</text><text id="cluster-Xenopus_tropicalis-label-9" rowID="43" class="label" x="767.2772199648432" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 767.2772199648432, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">SLC35A1</text><text id="cluster-Xenopus_tropicalis-label-10" rowID="44" class="label" x="846.6395233233757" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 846.6395233233757, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">SMIM8</text></g></g><g transform="translate(0,320)"><g transform="translate(50,5)"><line class="baseline" x1="0" y1="35" x2="900" y2="35" style="stroke: grey; stroke-width: 1;"></line></g><g transform="translate(50, 5)"><path d="M 5,0
+                     H 66.42631659520973
+                     A 5,5 0 0 1 71.42631659520973,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42631659520973,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 17.30103806228508, 35) translate(17.30103806228508, 23.75)" fill="#e6e7e8" class="gene" id="Protopterus_annectens-gene-0" rowID="45" start="941504838" end="944298060" strand="forward" cluster="Protopterus_annectens" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42631659520973
+                     A 5,5 0 0 1 71.42631659520973,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42631659520973,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 96.66358648566296, 35) translate(96.66358648566296, 23.75)" fill="#e6e7e8" class="gene" id="Protopterus_annectens-gene-1" rowID="46" start="944608417" end="947401639" strand="forward" cluster="Protopterus_annectens" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42629102391012
+                     A 5,5 0 0 1 71.42629102391012,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42629102391012,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 176.02616048034042, 35) translate(176.02616048034042, 23.75)" fill="#e6e7e8" class="gene" id="Protopterus_annectens-gene-2" rowID="47" start="947711997" end="950505218" strand="forward" cluster="Protopterus_annectens" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42631659520973
+                     A 5,5 0 0 1 71.42631659520973,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42631659520973,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 255.3887089037183, 35) translate(255.3887089037183, 23.75)" fill="#e6e7e8" class="gene" id="Protopterus_annectens-gene-3" rowID="48" start="950815576" end="953608798" strand="forward" cluster="Protopterus_annectens" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.4262910239101
+                     A 5,5 0 0 1 71.4262910239101,5
+                     V 17.5
+                     A 5,5 0 0 1 66.4262910239101,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 406.1775739223059, 35) translate(406.1775739223059, 23.75)" fill="#e6e7e8" class="gene" id="Protopterus_annectens-gene-4" rowID="49" start="956712377" end="953919156" strand="reverse" cluster="Protopterus_annectens" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.4263165952097
+                     A 5,5 0 0 1 71.4263165952097,5
+                     V 17.5
+                     A 5,5 0 0 1 66.4263165952097,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 414.11383132177366, 35) translate(414.11383132177366, 23.75)" fill="#e21f4c" class="gene" id="Protopterus_annectens-gene-5" rowID="50" start="957022735" end="959815957" strand="forward" cluster="Protopterus_annectens" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42629102391004
+                     A 5,5 0 0 1 71.42629102391004,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42629102391004,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 564.9026963403612, 35) translate(564.9026963403612, 23.75)" fill="#e6e7e8" class="gene" id="Protopterus_annectens-gene-6" rowID="51" start="962919536" end="960126315" strand="reverse" cluster="Protopterus_annectens" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42631659520976
+                     A 5,5 0 0 1 71.42631659520976,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42631659520976,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 644.2652703350387, 35) translate(644.2652703350387, 23.75)" fill="#e6e7e8" class="gene" id="Protopterus_annectens-gene-7" rowID="52" start="966023116" end="963229894" strand="reverse" cluster="Protopterus_annectens" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42629102391004
+                     A 5,5 0 0 1 71.42629102391004,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42629102391004,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 723.6278187584165, 35) translate(723.6278187584165, 23.75)" fill="#e6e7e8" class="gene" id="Protopterus_annectens-gene-8" rowID="53" start="969126695" end="966333474" strand="reverse" cluster="Protopterus_annectens" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42631659520976
+                     A 5,5 0 0 1 71.42631659520976,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42631659520976,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 731.5640761578843, 35) translate(731.5640761578843, 23.75)" fill="#e6e7e8" class="gene" id="Protopterus_annectens-gene-9" rowID="54" start="969437053" end="972230275" strand="forward" cluster="Protopterus_annectens" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42629102391004
+                     A 5,5 0 0 1 71.42629102391004,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42629102391004,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 810.9266501525619, 35) translate(810.9266501525619, 23.75)" fill="#e6e7e8" class="gene" id="Protopterus_annectens-gene-10" rowID="55" start="972540633" end="975333854" strand="forward" cluster="Protopterus_annectens" style="stroke-width: 1; stroke: black; cursor: default;"></path></g><g transform="translate(50, 5)"><circle cx="439.1130421300983" cy="35" position="957022735" r="1" cluster="Protopterus_annectens" visibility="hidden" groupColor="#e21f4c" linkID="0-40" class="link-marker"></circle><circle cx="460.5409371086588" cy="35" position="959815957" class="link-marker" groupColor="#e21f4c" visibility="hidden" linkID="0-40" cluster="Protopterus_annectens" r="1"></circle><circle cx="439.1130421300983" cy="35" position="957022735" class="link-marker" cluster="Protopterus_annectens" visibility="hidden" groupColor="#e6e7e8" linkID="0-41" r="1"></circle><circle cx="460.5409371086588" cy="35" position="959815957" class="link-marker" linkID="0-41" cluster="Protopterus_annectens" visibility="hidden" groupColor="#e6e7e8" r="1"></circle></g><g transform="translate(50,5)"><g transform="translate(0,3.500000000000003)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle"><path class="domain" stroke="none" d="M0.5,-6V0.5H900.5V-6"></path></g><g transform="translate(0,52.5)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle"><path class="domain" stroke="none" d="M0.5,6V0.5H900.5V6"></path><g class="tick" opacity="1" transform="translate(53.014196359889944,0)" rowID="45"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">942.9M</text></g><g class="tick" opacity="1" transform="translate(132.37674478326784,0)" rowID="46"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">946.0M</text></g><g class="tick" opacity="1" transform="translate(211.7393059922955,0)" rowID="47"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">949.1M</text></g><g class="tick" opacity="1" transform="translate(291.1018672013232,0)" rowID="48"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">952.2M</text></g><g class="tick" opacity="1" transform="translate(370.4644284103508,0)" rowID="49"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">955.3M</text></g><g class="tick" opacity="1" transform="translate(449.8269896193785,0)" rowID="50"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">958.4M</text></g><g class="tick" opacity="1" transform="translate(529.1895508284061,0)" rowID="51"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">961.5M</text></g><g class="tick" opacity="1" transform="translate(608.5521120374339,0)" rowID="52"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">964.6M</text></g><g class="tick" opacity="1" transform="translate(687.9146732464616,0)" rowID="53"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">967.7M</text></g><g class="tick" opacity="1" transform="translate(767.2772344554892,0)" rowID="54"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">970.8M</text></g><g class="tick" opacity="1" transform="translate(846.6397956645169,0)" rowID="55"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">973.9M</text></g></g></g><g transform="translate(50,5)"><text id="cluster-Protopterus_annectens-label-0" rowID="45" class="label" x="53.014196359889944" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 53.014196359889944, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">DDX60</text><text id="cluster-Protopterus_annectens-label-1" rowID="46" class="label" x="132.37674478326784" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 132.37674478326784, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">DDX60</text><text id="cluster-Protopterus_annectens-label-2" rowID="47" class="label" x="211.7393059922955" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 211.7393059922955, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">DDX60</text><text id="cluster-Protopterus_annectens-label-3" rowID="48" class="label" x="291.1018672013232" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 291.1018672013232, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">FBXL5</text><text id="cluster-Protopterus_annectens-label-4" rowID="49" class="label" x="370.4644284103508" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 370.4644284103508, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">CC2D2A</text><text id="cluster-Protopterus_annectens-label-5" rowID="50" class="label" x="449.8269896193785" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 449.8269896193785, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">CNR1</text><text id="cluster-Protopterus_annectens-label-6" rowID="51" class="label" x="529.1895508284061" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 529.1895508284061, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">CPEB2</text><text id="cluster-Protopterus_annectens-label-7" rowID="52" class="label" x="608.5521120374339" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 608.5521120374339, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">BOD1L1</text><text id="cluster-Protopterus_annectens-label-8" rowID="53" class="label" x="687.9146732464616" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 687.9146732464616, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">C1QTNF7</text><text id="cluster-Protopterus_annectens-label-9" rowID="54" class="label" x="767.2772344554892" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 767.2772344554892, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">NKX3-2</text><text id="cluster-Protopterus_annectens-label-10" rowID="55" class="label" x="846.6397956645169" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 846.6397956645169, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">RAB28</text></g></g><g transform="translate(0,400)"><g transform="translate(50,5)"><line class="baseline" x1="0" y1="35" x2="900" y2="35" style="stroke: grey; stroke-width: 1;"></line></g><g transform="translate(50, 5)"><path d="M 5,0
+                     H 66.42620852923005
+                     A 5,5 0 0 1 71.42620852923005,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42620852923005,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 17.30103806227239, 35) translate(17.30103806227239, 23.75)" fill="#e6e7e8" class="gene" id="Latimeria_chalumnae-gene-0" rowID="56" start="182932287" end="183014715" strand="forward" cluster="Latimeria_chalumnae" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42620852923004
+                     A 5,5 0 0 1 71.42620852923004,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42620852923004,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 96.66378082646166, 35) translate(96.66378082646166, 23.75)" fill="#e6e7e8" class="gene" id="Latimeria_chalumnae-gene-1" rowID="57" start="183023874" end="183106302" strand="forward" cluster="Latimeria_chalumnae" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42620852923002
+                     A 5,5 0 0 1 71.42620852923002,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42620852923002,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 247.45273211988098, 35) translate(247.45273211988098, 23.75)" fill="#e6e7e8" class="gene" id="Latimeria_chalumnae-gene-2" rowID="58" start="183197889" end="183115461" strand="reverse" cluster="Latimeria_chalumnae" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42707505769769
+                     A 5,5 0 0 1 71.42707505769769,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42707505769769,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 255.3883998263726, 35) translate(255.3883998263726, 23.75)" fill="#e6e7e8" class="gene" id="Latimeria_chalumnae-gene-3" rowID="59" start="183207047" end="183289476" strand="forward" cluster="Latimeria_chalumnae" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42620852923005
+                     A 5,5 0 0 1 71.42620852923005,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42620852923005,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 406.1773511197919, 35) translate(406.1773511197919, 23.75)" fill="#e6e7e8" class="gene" id="Latimeria_chalumnae-gene-4" rowID="60" start="183381062" end="183298634" strand="reverse" cluster="Latimeria_chalumnae" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42620852923011
+                     A 5,5 0 0 1 71.42620852923011,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42620852923011,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 485.5400938839812, 35) translate(485.5400938839812, 23.75)" fill="#e21f4c" class="gene" id="Latimeria_chalumnae-gene-5" rowID="61" start="183472649" end="183390221" strand="reverse" cluster="Latimeria_chalumnae" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42620852923005
+                     A 5,5 0 0 1 71.42620852923005,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42620852923005,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 564.9028366481705, 35) translate(564.9028366481705, 23.75)" fill="#e6e7e8" class="gene" id="Latimeria_chalumnae-gene-6" rowID="62" start="183564236" end="183481808" strand="reverse" cluster="Latimeria_chalumnae" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42620852923005
+                     A 5,5 0 0 1 71.42620852923005,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42620852923005,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 572.8393708831297, 35) translate(572.8393708831297, 23.75)" fill="#f28da5" class="gene" id="Latimeria_chalumnae-gene-7" rowID="63" start="183573395" end="183655823" strand="forward" cluster="Latimeria_chalumnae" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42620852923005
+                     A 5,5 0 0 1 71.42620852923005,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42620852923005,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 723.6283221765491, 35) translate(723.6283221765491, 23.75)" fill="#f28da5" class="gene" id="Latimeria_chalumnae-gene-8" rowID="64" start="183747410" end="183664982" strand="reverse" cluster="Latimeria_chalumnae" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42620852923017
+                     A 5,5 0 0 1 71.42620852923017,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42620852923017,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 731.5639898830406, 35) translate(731.5639898830406, 23.75)" fill="#e6e7e8" class="gene" id="Latimeria_chalumnae-gene-9" rowID="65" start="183756568" end="183838996" strand="forward" cluster="Latimeria_chalumnae" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42620852923005
+                     A 5,5 0 0 1 71.42620852923005,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42620852923005,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 882.3529411764599, 35) translate(882.3529411764599, 23.75)" fill="#e6e7e8" class="gene" id="Latimeria_chalumnae-gene-10" rowID="66" start="183930583" end="183848155" strand="reverse" cluster="Latimeria_chalumnae" style="stroke-width: 1; stroke: black; cursor: default;"></path></g><g transform="translate(50, 5)"><circle cx="460.54092089874035" cy="35" position="183472649" r="1" cluster="Latimeria_chalumnae" visibility="hidden" groupColor="#e21f4c" linkID="0-1" class="link-marker"></circle><circle cx="439.113058339992" cy="35" position="183390221" class="link-marker" groupColor="#e21f4c" visibility="hidden" linkID="0-1" cluster="Latimeria_chalumnae" r="1"></circle><circle cx="539.9036636629296" cy="35" position="183564236" r="1" cluster="Latimeria_chalumnae" visibility="hidden" groupColor="#e6e7e8" linkID="0-2" class="link-marker"></circle><circle cx="518.4758011041813" cy="35" position="183481808" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-2" cluster="Latimeria_chalumnae" r="1"></circle><circle cx="597.8385438683705" cy="35" position="183573395" r="1" cluster="Latimeria_chalumnae" visibility="hidden" groupColor="#f28da5" linkID="0-3" class="link-marker"></circle><circle cx="619.2664064271189" cy="35" position="183655823" class="link-marker" groupColor="#f28da5" visibility="hidden" linkID="0-3" cluster="Latimeria_chalumnae" r="1"></circle><circle cx="460.54092089874035" cy="35" position="183472649" class="link-marker" cluster="Latimeria_chalumnae" visibility="hidden" groupColor="#e6e7e8" linkID="0-40" r="1"></circle><circle cx="439.113058339992" cy="35" position="183390221" class="link-marker" linkID="0-40" cluster="Latimeria_chalumnae" visibility="hidden" groupColor="#e6e7e8" r="1"></circle></g><g transform="translate(50,5)"><g transform="translate(0,3.500000000000003)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle"><path class="domain" stroke="none" d="M0.5,-6V0.5H900.5V-6"></path></g><g transform="translate(0,52.5)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle"><path class="domain" stroke="none" d="M0.5,6V0.5H900.5V6"></path><g class="tick" opacity="1" transform="translate(53.01414232688742,0)" rowID="56"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">183.0M</text></g><g class="tick" opacity="1" transform="translate(132.3768850910767,0)" rowID="57"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">183.1M</text></g><g class="tick" opacity="1" transform="translate(211.73962785526595,0)" rowID="58"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">183.2M</text></g><g class="tick" opacity="1" transform="translate(291.1019373552214,0)" rowID="59"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">183.2M</text></g><g class="tick" opacity="1" transform="translate(370.4642468551769,0)" rowID="60"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">183.3M</text></g><g class="tick" opacity="1" transform="translate(449.82698961936615,0)" rowID="61"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">183.4M</text></g><g class="tick" opacity="1" transform="translate(529.1897323835555,0)" rowID="62"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">183.5M</text></g><g class="tick" opacity="1" transform="translate(608.5524751477446,0)" rowID="63"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">183.6M</text></g><g class="tick" opacity="1" transform="translate(687.915217911934,0)" rowID="64"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">183.7M</text></g><g class="tick" opacity="1" transform="translate(767.2770941476557,0)" rowID="65"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">183.8M</text></g><g class="tick" opacity="1" transform="translate(846.639836911845,0)" rowID="66"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">183.9M</text></g></g></g><g transform="translate(50,5)"><text id="cluster-Latimeria_chalumnae-label-0" rowID="56" class="label" x="53.01414232688742" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 53.01414232688742, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">CFAP206</text><text id="cluster-Latimeria_chalumnae-label-1" rowID="57" class="label" x="132.3768850910767" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 132.3768850910767, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">SLC35A1</text><text id="cluster-Latimeria_chalumnae-label-2" rowID="58" class="label" x="211.73962785526595" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 211.73962785526595, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">RARS2</text><text id="cluster-Latimeria_chalumnae-label-3" rowID="59" class="label" x="291.1019373552214" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 291.1019373552214, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">ORC3</text><text id="cluster-Latimeria_chalumnae-label-4" rowID="60" class="label" x="370.4642468551769" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 370.4642468551769, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">AKIRIN2</text><text id="cluster-Latimeria_chalumnae-label-5" rowID="61" class="label" x="449.82698961936615" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 449.82698961936615, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">CNR1</text><text id="cluster-Latimeria_chalumnae-label-6" rowID="62" class="label" x="529.1897323835555" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 529.1897323835555, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">RNGTT</text><text id="cluster-Latimeria_chalumnae-label-7" rowID="63" class="label" x="608.5524751477446" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 608.5524751477446, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">PNRC1</text><text id="cluster-Latimeria_chalumnae-label-8" rowID="64" class="label" x="687.915217911934" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 687.915217911934, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">SRSF12</text><text id="cluster-Latimeria_chalumnae-label-9" rowID="65" class="label" x="767.2770941476557" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 767.2770941476557, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">PM20D2</text><text id="cluster-Latimeria_chalumnae-label-10" rowID="66" class="label" x="846.639836911845" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 846.639836911845, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">GABBR1</text></g></g><g transform="translate(0,480)"><g transform="translate(50,5)"><line class="baseline" x1="0" y1="35" x2="900" y2="35" style="stroke: grey; stroke-width: 1;"></line></g><g transform="translate(50, 5)"><path d="M 5,0
+                     H 66.42611643946958
+                     A 5,5 0 0 1 71.42611643946958,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42611643946958,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 17.301038062283737, 35) translate(17.301038062283737, 23.75)" fill="#e6e7e8" class="gene" id="Danio_rerio-gene-0" rowID="67" start="767995" end="806441" strand="forward" cluster="Danio_rerio" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.4261164394696
+                     A 5,5 0 0 1 71.4261164394696,5
+                     V 17.5
+                     A 5,5 0 0 1 66.4261164394696,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 168.08991895218412, 35) translate(168.08991895218412, 23.75)" fill="#e6e7e8" class="gene" id="Danio_rerio-gene-1" rowID="68" start="849159" end="810713" strand="reverse" cluster="Danio_rerio" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42611643946958
+                     A 5,5 0 0 1 71.42611643946958,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42611643946958,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 176.0265669631453, 35) translate(176.0265669631453, 23.75)" fill="#e6e7e8" class="gene" id="Danio_rerio-gene-2" rowID="69" start="853431" end="891877" strand="forward" cluster="Danio_rerio" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42611643946958
+                     A 5,5 0 0 1 71.42611643946958,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42611643946958,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 255.3893314135761, 35) translate(255.3893314135761, 23.75)" fill="#e6e7e8" class="gene" id="Danio_rerio-gene-3" rowID="70" start="896149" end="934595" strand="forward" cluster="Danio_rerio" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42611643946958
+                     A 5,5 0 0 1 71.42611643946958,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42611643946958,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 406.17821230347647, 35) translate(406.17821230347647, 23.75)" fill="#e6e7e8" class="gene" id="Danio_rerio-gene-4" rowID="71" start="977313" end="938867" strand="reverse" cluster="Danio_rerio" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42611643946964
+                     A 5,5 0 0 1 71.42611643946964,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42611643946964,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 485.5409767539073, 35) translate(485.5409767539073, 23.75)" fill="#e21f4c" class="gene" id="Danio_rerio-gene-5" rowID="72" start="1020031" end="981585" strand="reverse" cluster="Danio_rerio" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42797426906026
+                     A 5,5 0 0 1 71.42797426906026,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42797426906026,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 564.9037412043381, 35) translate(564.9037412043381, 23.75)" fill="#e6e7e8" class="gene" id="Danio_rerio-gene-6" rowID="73" start="1062749" end="1024302" strand="reverse" cluster="Danio_rerio" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42611643946964
+                     A 5,5 0 0 1 71.42611643946964,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42611643946964,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 572.8385313857086, 35) translate(572.8385313857086, 23.75)" fill="#f28da5" class="gene" id="Danio_rerio-gene-7" rowID="74" start="1067020" end="1105466" strand="forward" cluster="Danio_rerio" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42611643946964
+                     A 5,5 0 0 1 71.42611643946964,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42611643946964,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 723.627412275609, 35) translate(723.627412275609, 23.75)" fill="#e6e7e8" class="gene" id="Danio_rerio-gene-8" rowID="75" start="1148184" end="1109738" strand="reverse" cluster="Danio_rerio" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42611643946952
+                     A 5,5 0 0 1 71.42611643946952,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42611643946952,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 802.9901767260397, 35) translate(802.9901767260397, 23.75)" fill="#e6e7e8" class="gene" id="Danio_rerio-gene-9" rowID="76" start="1190902" end="1152456" strand="reverse" cluster="Danio_rerio" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42611643946952
+                     A 5,5 0 0 1 71.42611643946952,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42611643946952,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 882.3529411764705, 35) translate(882.3529411764705, 23.75)" fill="#e6e7e8" class="gene" id="Danio_rerio-gene-10" rowID="77" start="1233620" end="1195174" strand="reverse" cluster="Danio_rerio" style="stroke-width: 1; stroke: black; cursor: default;"></path></g><g transform="translate(50, 5)"><circle cx="460.541836000093" cy="35" position="1020031" r="1" cluster="Danio_rerio" visibility="hidden" groupColor="#e21f4c" linkID="0-10" class="link-marker"></circle><circle cx="439.114001068252" cy="35" position="981585" class="link-marker" groupColor="#e21f4c" visibility="hidden" linkID="0-10" cluster="Danio_rerio" r="1"></circle><circle cx="539.9039502101671" cy="35" position="1062749" r="1" cluster="Danio_rerio" visibility="hidden" groupColor="#e6e7e8" linkID="0-11" class="link-marker"></circle><circle cx="518.4755579294488" cy="35" position="1024302" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-11" cluster="Danio_rerio" r="1"></circle><circle cx="597.8376721395232" cy="35" position="1067020" r="1" cluster="Danio_rerio" visibility="hidden" groupColor="#f28da5" linkID="0-12" class="link-marker"></circle><circle cx="619.2655070713637" cy="35" position="1105466" class="link-marker" groupColor="#f28da5" visibility="hidden" linkID="0-12" cluster="Danio_rerio" r="1"></circle><circle cx="460.541836000093" cy="35" position="1020031" class="link-marker" cluster="Danio_rerio" visibility="hidden" groupColor="#e6e7e8" linkID="0-1" r="1"></circle><circle cx="439.114001068252" cy="35" position="981585" class="link-marker" linkID="0-1" cluster="Danio_rerio" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="539.9039502101671" cy="35" position="1062749" class="link-marker" cluster="Danio_rerio" visibility="hidden" groupColor="#e6e7e8" linkID="0-2" r="1"></circle><circle cx="518.4755579294488" cy="35" position="1024302" class="link-marker" linkID="0-2" cluster="Danio_rerio" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="597.8376721395232" cy="35" position="1067020" class="link-marker" cluster="Danio_rerio" visibility="hidden" groupColor="#e6e7e8" linkID="0-3" r="1"></circle><circle cx="619.2655070713637" cy="35" position="1105466" class="link-marker" linkID="0-3" cluster="Danio_rerio" visibility="hidden" groupColor="#e6e7e8" r="1"></circle></g><g transform="translate(50,5)"><g transform="translate(0,3.500000000000003)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle"><path class="domain" stroke="none" d="M0.5,-6V0.5H900.5V-6"></path></g><g transform="translate(0,52.5)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle"><path class="domain" stroke="none" d="M0.5,6V0.5H900.5V6"></path><g class="tick" opacity="1" transform="translate(53.01409628201853,0)" rowID="67"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">787.2k</text></g><g class="tick" opacity="1" transform="translate(132.3768607324493,0)" rowID="68"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">829.9k</text></g><g class="tick" opacity="1" transform="translate(211.7396251828801,0)" rowID="69"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">872.7k</text></g><g class="tick" opacity="1" transform="translate(291.10238963331085,0)" rowID="70"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">915.4k</text></g><g class="tick" opacity="1" transform="translate(370.46515408374165,0)" rowID="71"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">958.1k</text></g><g class="tick" opacity="1" transform="translate(449.82791853417245,0)" rowID="72"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">1.001M</text></g><g class="tick" opacity="1" transform="translate(529.189754069808,0)" rowID="73"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">1.044M</text></g><g class="tick" opacity="1" transform="translate(608.5515896054434,0)" rowID="74"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">1.086M</text></g><g class="tick" opacity="1" transform="translate(687.9143540558742,0)" rowID="75"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">1.129M</text></g><g class="tick" opacity="1" transform="translate(767.277118506305,0)" rowID="76"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">1.172M</text></g><g class="tick" opacity="1" transform="translate(846.6398829567357,0)" rowID="77"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">1.214M</text></g></g></g><g transform="translate(50,5)"><text id="cluster-Danio_rerio-label-0" rowID="67" class="label" x="53.01409628201853" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 53.01409628201853, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">MYO6A</text><text id="cluster-Danio_rerio-label-1" rowID="68" class="label" x="132.3768607324493" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 132.3768607324493, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">IMPG1A</text><text id="cluster-Danio_rerio-label-2" rowID="69" class="label" x="211.7396251828801" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 211.7396251828801, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">MEI4</text><text id="cluster-Danio_rerio-label-3" rowID="70" class="label" x="291.10238963331085" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 291.10238963331085, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">NT5E</text><text id="cluster-Danio_rerio-label-4" rowID="71" class="label" x="370.46515408374165" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 370.46515408374165, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">SNX14</text><text id="cluster-Danio_rerio-label-5" rowID="72" class="label" x="449.82791853417245" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 449.82791853417245, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">CNR1</text><text id="cluster-Danio_rerio-label-6" rowID="73" class="label" x="529.189754069808" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 529.189754069808, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">RNGTT</text><text id="cluster-Danio_rerio-label-7" rowID="74" class="label" x="608.5515896054434" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 608.5515896054434, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">PNRC1</text><text id="cluster-Danio_rerio-label-8" rowID="75" class="label" x="687.9143540558742" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 687.9143540558742, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">GABRR1</text><text id="cluster-Danio_rerio-label-9" rowID="76" class="label" x="767.277118506305" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 767.277118506305, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">GABRR2B</text><text id="cluster-Danio_rerio-label-10" rowID="77" class="label" x="846.6398829567357" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 846.6398829567357, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">UBE2J1</text></g></g><g transform="translate(0,560)"><g transform="translate(50,5)"><line class="baseline" x1="0" y1="35" x2="900" y2="35" style="stroke: grey; stroke-width: 1;"></line></g><g transform="translate(50, 5)"><path d="M 5,0
+                     H 66.42649891044944
+                     A 5,5 0 0 1 71.42649891044944,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42649891044944,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 17.30103806228372, 35) translate(17.30103806228372, 23.75)" fill="#e6e7e8" class="gene" id="Scyliorhinus_canicula-gene-0" rowID="78" start="59257518" end="59412112" strand="forward" cluster="Scyliorhinus_canicula" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42603688411653
+                     A 5,5 0 0 1 71.42603688411653,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42603688411653,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 168.08980017730707, 35) translate(168.08980017730707, 23.75)" fill="#e6e7e8" class="gene" id="Scyliorhinus_canicula-gene-1" rowID="79" start="59583882" end="59429289" strand="reverse" cluster="Scyliorhinus_canicula" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42649891044942
+                     A 5,5 0 0 1 71.42649891044942,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42649891044942,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 176.02602649776446, 35) translate(176.02602649776446, 23.75)" fill="#e6e7e8" class="gene" id="Scyliorhinus_canicula-gene-2" rowID="80" start="59601059" end="59755653" strand="forward" cluster="Scyliorhinus_canicula" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42603688411651
+                     A 5,5 0 0 1 71.42603688411651,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42603688411651,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 326.8147886127878, 35) translate(326.8147886127878, 23.75)" fill="#e6e7e8" class="gene" id="Scyliorhinus_canicula-gene-3" rowID="81" start="59927423" end="59772830" strand="reverse" cluster="Scyliorhinus_canicula" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42603688411651
+                     A 5,5 0 0 1 71.42603688411651,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42603688411651,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 334.7514769595781, 35) translate(334.7514769595781, 23.75)" fill="#e6e7e8" class="gene" id="Scyliorhinus_canicula-gene-4" rowID="82" start="59944601" end="60099194" strand="forward" cluster="Scyliorhinus_canicula" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42649891044942
+                     A 5,5 0 0 1 71.42649891044942,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42649891044942,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 485.54023907460146, 35) translate(485.54023907460146, 23.75)" fill="#e21f4c" class="gene" id="Scyliorhinus_canicula-gene-5" rowID="83" start="60270965" end="60116371" strand="reverse" cluster="Scyliorhinus_canicula" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42603688411663
+                     A 5,5 0 0 1 71.42603688411663,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42603688411663,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 564.9025022791755, 35) translate(564.9025022791755, 23.75)" fill="#e6e7e8" class="gene" id="Scyliorhinus_canicula-gene-6" rowID="84" start="60442735" end="60288142" strand="reverse" cluster="Scyliorhinus_canicula" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42649891044937
+                     A 5,5 0 0 1 71.42649891044937,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42649891044937,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 644.2652275100821, 35) translate(644.2652275100821, 23.75)" fill="#e6e7e8" class="gene" id="Scyliorhinus_canicula-gene-7" rowID="85" start="60614506" end="60459912" strand="reverse" cluster="Scyliorhinus_canicula" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42649891044948
+                     A 5,5 0 0 1 71.42649891044948,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42649891044948,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 652.2014538305395, 35) translate(652.2014538305395, 23.75)" fill="#f28da5" class="gene" id="Scyliorhinus_canicula-gene-8" rowID="86" start="60631683" end="60786277" strand="forward" cluster="Scyliorhinus_canicula" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42603688411657
+                     A 5,5 0 0 1 71.42603688411657,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42603688411657,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 731.5641790614465, 35) translate(731.5641790614465, 23.75)" fill="#e6e7e8" class="gene" id="Scyliorhinus_canicula-gene-9" rowID="87" start="60803454" end="60958047" strand="forward" cluster="Scyliorhinus_canicula" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42649891044937
+                     A 5,5 0 0 1 71.42649891044937,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42649891044937,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 882.3529411764697, 35) translate(882.3529411764697, 23.75)" fill="#e6e7e8" class="gene" id="Scyliorhinus_canicula-gene-10" rowID="88" start="61129818" end="60975224" strand="reverse" cluster="Scyliorhinus_canicula" style="stroke-width: 1; stroke: black; cursor: default;"></path></g><g transform="translate(50, 5)"><circle cx="42.30031268094034" cy="35" position="59257518" r="1" cluster="Scyliorhinus_canicula" visibility="hidden" groupColor="#e6e7e8" linkID="0-4" class="link-marker"></circle><circle cx="63.72826235407654" cy="35" position="59412112" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-4" cluster="Scyliorhinus_canicula" r="1"></circle><circle cx="143.09068726786765" cy="35" position="59583882" r="1" cluster="Scyliorhinus_canicula" visibility="hidden" groupColor="#e6e7e8" linkID="0-5" class="link-marker"></circle><circle cx="121.66287620262995" cy="35" position="59429289" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-5" cluster="Scyliorhinus_canicula" r="1"></circle><circle cx="201.02530111642108" cy="35" position="59601059" r="1" cluster="Scyliorhinus_canicula" visibility="hidden" groupColor="#e6e7e8" linkID="0-6" class="link-marker"></circle><circle cx="222.4532507895573" cy="35" position="59755653" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-6" cluster="Scyliorhinus_canicula" r="1"></circle><circle cx="301.8156757033484" cy="35" position="59927423" r="1" cluster="Scyliorhinus_canicula" visibility="hidden" groupColor="#e6e7e8" linkID="0-7" class="link-marker"></circle><circle cx="280.3878646381107" cy="35" position="59772830" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-7" cluster="Scyliorhinus_canicula" r="1"></circle><circle cx="460.5409644559448" cy="35" position="60270965" r="1" cluster="Scyliorhinus_canicula" visibility="hidden" groupColor="#e21f4c" linkID="0-8" class="link-marker"></circle><circle cx="439.11301478280865" cy="35" position="60116371" class="link-marker" groupColor="#e21f4c" visibility="hidden" linkID="0-8" cluster="Scyliorhinus_canicula" r="1"></circle><circle cx="539.903389369736" cy="35" position="60442735" r="1" cluster="Scyliorhinus_canicula" visibility="hidden" groupColor="#e6e7e8" linkID="0-9" class="link-marker"></circle><circle cx="518.4755783044982" cy="35" position="60288142" class="link-marker" groupColor="#e6e7e8" visibility="hidden" linkID="0-9" cluster="Scyliorhinus_canicula" r="1"></circle><circle cx="460.5409644559448" cy="35" position="60270965" class="link-marker" cluster="Scyliorhinus_canicula" visibility="hidden" groupColor="#e6e7e8" linkID="0-10" r="1"></circle><circle cx="439.11301478280865" cy="35" position="60116371" class="link-marker" linkID="0-10" cluster="Scyliorhinus_canicula" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="539.903389369736" cy="35" position="60442735" class="link-marker" cluster="Scyliorhinus_canicula" visibility="hidden" groupColor="#e6e7e8" linkID="0-11" r="1"></circle><circle cx="518.4755783044982" cy="35" position="60288142" class="link-marker" linkID="0-11" cluster="Scyliorhinus_canicula" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="677.2007284491962" cy="35" position="60631683" class="link-marker" cluster="Scyliorhinus_canicula" visibility="hidden" groupColor="#e6e7e8" linkID="0-12" r="1"></circle><circle cx="698.6286781223324" cy="35" position="60786277" class="link-marker" linkID="0-12" cluster="Scyliorhinus_canicula" visibility="hidden" groupColor="#e6e7e8" r="1"></circle></g><g transform="translate(50,5)"><g transform="translate(0,3.500000000000003)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle"><path class="domain" stroke="none" d="M0.5,-6V0.5H900.5V-6"></path></g><g transform="translate(0,52.5)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle"><path class="domain" stroke="none" d="M0.5,6V0.5H900.5V6"></path><g class="tick" opacity="1" transform="translate(53.01428751750844,0)" rowID="78"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">59.33M</text></g><g class="tick" opacity="1" transform="translate(132.3767817352488,0)" rowID="79"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">59.51M</text></g><g class="tick" opacity="1" transform="translate(211.7392759529892,0)" rowID="80"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">59.68M</text></g><g class="tick" opacity="1" transform="translate(291.10177017072954,0)" rowID="81"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">59.85M</text></g><g class="tick" opacity="1" transform="translate(370.4644954016364,0)" rowID="82"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">60.02M</text></g><g class="tick" opacity="1" transform="translate(449.8269896193768,0)" rowID="83"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">60.19M</text></g><g class="tick" opacity="1" transform="translate(529.1894838371172,0)" rowID="84"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">60.37M</text></g><g class="tick" opacity="1" transform="translate(608.5519780548575,0)" rowID="85"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">60.54M</text></g><g class="tick" opacity="1" transform="translate(687.9147032857643,0)" rowID="86"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">60.71M</text></g><g class="tick" opacity="1" transform="translate(767.2771975035047,0)" rowID="87"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">60.88M</text></g><g class="tick" opacity="1" transform="translate(846.6396917212451,0)" rowID="88"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">61.05M</text></g></g></g><g transform="translate(50,5)"><text id="cluster-Scyliorhinus_canicula-label-0" rowID="78" class="label" x="53.01428751750844" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 53.01428751750844, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">SLC35A1</text><text id="cluster-Scyliorhinus_canicula-label-1" rowID="79" class="label" x="132.3767817352488" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 132.3767817352488, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">RARS2</text><text id="cluster-Scyliorhinus_canicula-label-2" rowID="80" class="label" x="211.7392759529892" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 211.7392759529892, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">ORC3</text><text id="cluster-Scyliorhinus_canicula-label-3" rowID="81" class="label" x="291.10177017072954" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 291.10177017072954, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">AKIRIN2</text><text id="cluster-Scyliorhinus_canicula-label-4" rowID="82" class="label" x="370.4644954016364" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 370.4644954016364, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">SPACA1</text><text id="cluster-Scyliorhinus_canicula-label-5" rowID="83" class="label" x="449.8269896193768" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 449.8269896193768, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">CNR1</text><text id="cluster-Scyliorhinus_canicula-label-6" rowID="84" class="label" x="529.1894838371172" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 529.1894838371172, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">RNGTT</text><text id="cluster-Scyliorhinus_canicula-label-7" rowID="85" class="label" x="608.5519780548575" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 608.5519780548575, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">NOL12</text><text id="cluster-Scyliorhinus_canicula-label-8" rowID="86" class="label" x="687.9147032857643" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 687.9147032857643, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">PNRC1</text><text id="cluster-Scyliorhinus_canicula-label-9" rowID="87" class="label" x="767.2771975035047" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 767.2771975035047, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">PM20D2</text><text id="cluster-Scyliorhinus_canicula-label-10" rowID="88" class="label" x="846.6396917212451" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 846.6396917212451, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">GABBR1</text></g></g><g transform="translate(0,640)"><g transform="translate(50,5)"><line class="baseline" x1="0" y1="35" x2="900" y2="35" style="stroke: grey; stroke-width: 1;"></line></g><g transform="translate(50, 5)"><path d="M 5,0
+                     H 66.42544729363205
+                     A 5,5 0 0 1 71.42544729363205,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42544729363205,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 88.72648535591577, 35) translate(88.72648535591577, 23.75)" fill="#e6e7e8" class="gene" id="Petromyzon_marinus-gene-0" rowID="89" start="10799978" end="10770910" strand="reverse" cluster="Petromyzon_marinus" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42790447841577
+                     A 5,5 0 0 1 71.42790447841577,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42790447841577,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 96.6631922073824, 35) translate(96.6631922073824, 23.75)" fill="#e6e7e8" class="gene" id="Petromyzon_marinus-gene-1" rowID="90" start="10803208" end="10832277" strand="forward" cluster="Petromyzon_marinus" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42790447841577
+                     A 5,5 0 0 1 71.42790447841577,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42790447841577,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 247.45325083089682, 35) translate(247.45325083089682, 23.75)" fill="#e6e7e8" class="gene" id="Petromyzon_marinus-gene-2" rowID="91" start="10864575" end="10835506" strand="reverse" cluster="Petromyzon_marinus" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42544729363203
+                     A 5,5 0 0 1 71.42544729363203,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42544729363203,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 255.38995768236344, 35) translate(255.38995768236344, 23.75)" fill="#e6e7e8" class="gene" id="Petromyzon_marinus-gene-3" rowID="92" start="10867805" end="10896873" strand="forward" cluster="Petromyzon_marinus" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42544729363203
+                     A 5,5 0 0 1 71.42544729363203,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42544729363203,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 406.17755912109413, 35) translate(406.17755912109413, 23.75)" fill="#e6e7e8" class="gene" id="Petromyzon_marinus-gene-4" rowID="93" start="10929171" end="10900103" strand="reverse" cluster="Petromyzon_marinus" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42544729363198
+                     A 5,5 0 0 1 71.42544729363198,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42544729363198,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 485.5397132661928, 35) translate(485.5397132661928, 23.75)" fill="#e21f4c" class="gene" id="Petromyzon_marinus-gene-5" rowID="94" start="10961469" end="10932401" strand="reverse" cluster="Petromyzon_marinus" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42544729363198
+                     A 5,5 0 0 1 71.42544729363198,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42544729363198,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 564.9018674112914, 35) translate(564.9018674112914, 23.75)" fill="#e6e7e8" class="gene" id="Petromyzon_marinus-gene-6" rowID="95" start="10993767" end="10964699" strand="reverse" cluster="Petromyzon_marinus" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42790447841571
+                     A 5,5 0 0 1 71.42790447841571,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42790447841571,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 644.2664787411738, 35) translate(644.2664787411738, 23.75)" fill="#e6e7e8" class="gene" id="Petromyzon_marinus-gene-7" rowID="96" start="11026066" end="10996997" strand="reverse" cluster="Petromyzon_marinus" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42790447841571
+                     A 5,5 0 0 1 71.42790447841571,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42790447841571,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 723.6286328862725, 35) translate(723.6286328862725, 23.75)" fill="#e6e7e8" class="gene" id="Petromyzon_marinus-gene-8" rowID="97" start="11058364" end="11029295" strand="reverse" cluster="Petromyzon_marinus" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42544729363203
+                     A 5,5 0 0 1 71.42544729363203,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42544729363203,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(0, 731.5653397377392, 35) translate(731.5653397377392, 23.75)" fill="#e6e7e8" class="gene" id="Petromyzon_marinus-gene-9" rowID="98" start="11061594" end="11090662" strand="forward" cluster="Petromyzon_marinus" style="stroke-width: 1; stroke: black; cursor: default;"></path><path d="M 5,0
+                     H 66.42544729363203
+                     A 5,5 0 0 1 71.42544729363203,5
+                     V 17.5
+                     A 5,5 0 0 1 66.42544729363203,22.5
+                     H 5
+                     A 5,5 0 0 1 0,17.5
+                     V 5
+                     A 5,5 0 0 1 5,0
+                     Z" transform="rotate(180, 882.3529411764698, 35) translate(882.3529411764698, 23.75)" fill="#e6e7e8" class="gene" id="Petromyzon_marinus-gene-10" rowID="99" start="11122960" end="11093892" strand="reverse" cluster="Petromyzon_marinus" style="stroke-width: 1; stroke: black; cursor: default;"></path></g><g transform="translate(50, 5)"><circle cx="121.66295877482882" cy="35" position="10803208" class="link-marker" cluster="Petromyzon_marinus" visibility="hidden" groupColor="#e6e7e8" linkID="0-4" r="1"></circle><circle cx="143.09133011835172" cy="35" position="10832277" class="link-marker" linkID="0-4" cluster="Petromyzon_marinus" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="222.45348426345038" cy="35" position="10864575" class="link-marker" cluster="Petromyzon_marinus" visibility="hidden" groupColor="#e6e7e8" linkID="0-5" r="1"></circle><circle cx="201.0251129199275" cy="35" position="10835506" class="link-marker" linkID="0-5" cluster="Petromyzon_marinus" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="280.3888642351365" cy="35" position="10867805" class="link-marker" cluster="Petromyzon_marinus" visibility="hidden" groupColor="#e6e7e8" linkID="0-6" r="1"></circle><circle cx="301.8164984232224" cy="35" position="10896873" class="link-marker" linkID="0-6" cluster="Petromyzon_marinus" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="381.1786525683211" cy="35" position="10929171" class="link-marker" cluster="Petromyzon_marinus" visibility="hidden" groupColor="#e6e7e8" linkID="0-7" r="1"></circle><circle cx="359.75101838023517" cy="35" position="10900103" class="link-marker" linkID="0-7" cluster="Petromyzon_marinus" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="460.5408067134198" cy="35" position="10961469" class="link-marker" cluster="Petromyzon_marinus" visibility="hidden" groupColor="#e6e7e8" linkID="0-8" r="1"></circle><circle cx="439.1131725253338" cy="35" position="10932401" class="link-marker" linkID="0-8" cluster="Petromyzon_marinus" visibility="hidden" groupColor="#e6e7e8" r="1"></circle><circle cx="698.6288663188261" cy="35" position="11058364" class="link-marker" cluster="Petromyzon_marinus" visibility="hidden" groupColor="#e6e7e8" linkID="0-9" r="1"></circle><circle cx="677.2004949753032" cy="35" position="11029295" class="link-marker" linkID="0-9" cluster="Petromyzon_marinus" visibility="hidden" groupColor="#e6e7e8" r="1"></circle></g><g transform="translate(50,5)"><g transform="translate(0,3.500000000000003)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle"><path class="domain" stroke="none" d="M0.5,-6V0.5H900.5V-6"></path></g><g transform="translate(0,52.5)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle"><path class="domain" stroke="none" d="M0.5,6V0.5H900.5V6"></path><g class="tick" opacity="1" transform="translate(53.01376170909975,0)" rowID="89"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">10.79M</text></g><g class="tick" opacity="1" transform="translate(132.37714444659028,0)" rowID="90"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">10.82M</text></g><g class="tick" opacity="1" transform="translate(211.73929859168894,0)" rowID="91"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">10.85M</text></g><g class="tick" opacity="1" transform="translate(291.10268132917946,0)" rowID="92"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">10.88M</text></g><g class="tick" opacity="1" transform="translate(370.4648354742781,0)" rowID="93"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">10.91M</text></g><g class="tick" opacity="1" transform="translate(449.82698961937683,0)" rowID="94"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">10.95M</text></g><g class="tick" opacity="1" transform="translate(529.1891437644754,0)" rowID="95"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">10.98M</text></g><g class="tick" opacity="1" transform="translate(608.552526501966,0)" rowID="96"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">11.01M</text></g><g class="tick" opacity="1" transform="translate(687.9146806470646,0)" rowID="97"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">11.04M</text></g><g class="tick" opacity="1" transform="translate(767.2780633845553,0)" rowID="98"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">11.08M</text></g><g class="tick" opacity="1" transform="translate(846.6402175296538,0)" rowID="99"><line stroke="currentColor" y2="0" style="stroke: black; stroke-width: 0;"></line><text fill="currentColor" y="9" dy="-0.15em" class="coordinate" dx="-1.2em" transform="rotate(0)" style="text-anchor: start; fill: black; font-size: 10px; font-family: Arial; cursor: default;">11.11M</text></g></g></g><g transform="translate(50,5)"><text id="cluster-Petromyzon_marinus-label-0" rowID="89" class="label" x="53.01376170909975" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 53.01376170909975, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">RHBDL2</text><text id="cluster-Petromyzon_marinus-label-1" rowID="90" class="label" x="132.37714444659028" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 132.37714444659028, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">SLC35A1</text><text id="cluster-Petromyzon_marinus-label-2" rowID="91" class="label" x="211.73929859168894" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 211.73929859168894, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">RARS2</text><text id="cluster-Petromyzon_marinus-label-3" rowID="92" class="label" x="291.10268132917946" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 291.10268132917946, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">ORC3</text><text id="cluster-Petromyzon_marinus-label-4" rowID="93" class="label" x="370.4648354742781" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 370.4648354742781, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">AKIRIN2</text><text id="cluster-Petromyzon_marinus-label-5" rowID="94" class="label" x="449.82698961937683" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 449.82698961937683, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">CNR1</text><text id="cluster-Petromyzon_marinus-label-6" rowID="95" class="label" x="529.1891437644754" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 529.1891437644754, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">MYOSIN HEAD</text><text id="cluster-Petromyzon_marinus-label-7" rowID="96" class="label" x="608.552526501966" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 608.552526501966, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default; fill: black; font-weight: bold;">DUF6475</text><text id="cluster-Petromyzon_marinus-label-8" rowID="97" class="label" x="687.9146806470646" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 687.9146806470646, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">RNGTT</text><text id="cluster-Petromyzon_marinus-label-9" rowID="98" class="label" x="767.2780633845553" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 767.2780633845553, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">FBXL22</text><text id="cluster-Petromyzon_marinus-label-10" rowID="99" class="label" x="846.6402175296538" y="41.25" dx="0em" dy="0em" text-anchor="middle" transform="rotate(0, 846.6402175296538, 41.25)" style="font-size: 12px; font-style: normal; font-family: Arial; cursor: default;">CEP162</text></g></g></svg>
