@@ -5,50 +5,60 @@ library(geneviewer)
 library(htmlwidgets)
 library(chromote)
 
-dir.create("results/synteny", recursive = TRUE, showWarnings = FALSE)
+# Locate synteny dataset
+csv_candidates <- c(
+  "data/synteny/synteny.csv",
+  "synteny.csv",
+  "../../data/synteny/synteny.csv"
+)
+csv_file <- csv_candidates[file.exists(csv_candidates)][1]
+if (is.na(csv_file)) {
+  stop("Could not find synteny.csv in candidate locations.")
+}
 
-# Read and prepare the CNR1 gene-neighborhood data.
-synteny_data <- read_csv("data/synteny/synteny.csv", show_col_types = FALSE) %>%
+synteny_data <- read_csv(csv_file, show_col_types = FALSE) %>%
+  select(-starts_with("...")) %>%
   filter(receptor == "cnr1") %>%
   rename(
     cluster = taxa,
     name = gene,
     strand = orientation
+  ) %>%
+  mutate(
+    strand = trimws(as.character(strand)),
+    genomic_start = start,
+    genomic_end = end,
+    start_coordinate = if_else(strand == "+", start, end)
   )
 
-# Highlighted genes
+stopifnot(all(synteny_data$strand %in% c("+", "-")))
+
 goi <- "CNR1"
 goi_color <- "#e21f4c"
-
-ortholog <- c("AKIRIN1", "SRSF12", "PNRC1")
 ortholog_color <- "#f28da5"
+background_color <- "#e6e7e8"
 
-# Create gene color map
+ortholog <- synteny_data %>%
+  distinct(name, cluster) %>%
+  count(name, name = "paralogons") %>%
+  filter(paralogons > 1) %>%
+  pull(name)
+
 all_genes <- unique(synteny_data$name)
 
 gene_colors <- setNames(
-  rep("#e6e7e8", length(all_genes)),
+  rep(background_color, length(all_genes)),
   all_genes
 )
 
-gene_colors[goi] <- goi_color
 gene_colors[ortholog] <- ortholog_color
+gene_colors[goi] <- goi_color
 
-# Label styles
-label_styles <- list(
-  list(index = 5, fill = "black", fontWeight = "bold"),
-  list(index = 3, fill = "black", fontWeight = "bold"),
-  list(index = 7, fill = "black", fontWeight = "bold"),
-  list(index = 1, fill = "black", fontWeight = "bold")
-)
-
-# Set dynamic plot height
 dynamic_height <- paste0(
   80 * length(unique(synteny_data$cluster)),
   "px"
 )
 
-# Create chart
 main_chart <- GC_chart(
   synteny_data,
   cluster = "cluster",
@@ -62,7 +72,7 @@ main_chart <- GC_chart(
     preserve_gene_length = FALSE
   ) %>%
   GC_tooltip(
-    formatter = "<b>Start:</b> {original_start}<br><b>End:</b> {original_end}"
+    formatter = "<b>Start:</b> {genomic_start}<br><b>End:</b> {genomic_end}"
   ) %>%
   GC_coordinates(
     TRUE,
@@ -90,7 +100,7 @@ main_chart <- GC_chart(
     y = 25,
     fontFamily = "Arial",
     fontStyle = "normal",
-    itemStyle = label_styles
+    highlight = goi
   ) %>%
   GC_genes(
     show = TRUE,
@@ -101,7 +111,6 @@ main_chart <- GC_chart(
   ) %>%
   GC_legend(FALSE)
 
-# Add links and colors
 cluster_plot <- main_chart %>%
   GC_links(
     "name",
@@ -112,70 +121,139 @@ cluster_plot <- main_chart %>%
     customColors = gene_colors
   )
 
-# Display plot
+coord_values <- unname(lapply(cluster_plot$x$series, function(s) {
+  d <- as.data.frame(s$data)
+  d$start_coordinate[order((d$start + d$end) / 2)]
+}))
+
+relabel_js <- r"---(
+function(el, x, lookup) {
+
+  const fmt = v => {
+    const a = Math.abs(v);
+    const [s, p] = a >= 1e9 ? [1e9, 'G'] : a >= 1e6 ? [1e6, 'M'] : a >= 1e3 ? [1e3, 'k'] : [1, ''];
+    return (v / s).toPrecision(4) + p;
+  };
+
+  const isTick = s => /^\d+(\.\d+)?[kMG]$/.test(s);
+
+  const rows = arr => {
+    const sorted = arr.slice().sort((a, b) => a.y - b.y);
+    const groups = [];
+    sorted.forEach(o => {
+      const g = groups[groups.length - 1];
+      if (g && o.y - g[g.length - 1].y < 30) g.push(o);
+      else groups.push([o]);
+    });
+    return groups.map(g => g.sort((a, b) => a.cx - b.cx));
+  };
+
+  const apply = () => {
+    try {
+      const texts = Array.from(el.querySelectorAll('text')).map(t => {
+        const r = t.getBoundingClientRect();
+        return { t: t, cx: r.left + r.width / 2, y: r.top, s: t.textContent.trim() };
+      });
+
+      const tickRows = rows(texts.filter(o => isTick(o.s)));
+      const vals = lookup.map(v => [].concat(v));
+
+      el.setAttribute('data-coords-status', JSON.stringify({
+        clusters: vals.length,
+        tickRows: tickRows.map(r => r.length),
+        genes: vals.map(v => v.length)
+      }));
+
+      if (tickRows.length !== vals.length) return;
+      for (let k = 0; k < vals.length; k++) {
+        if (tickRows[k].length !== vals[k].length) return;
+      }
+
+      for (let k = 0; k < vals.length; k++) {
+        tickRows[k].forEach((o, i) => {
+          const txt = fmt(vals[k][i]);
+          if (o.t.textContent !== txt) o.t.textContent = txt;
+        });
+      }
+      el.setAttribute('data-coords-fixed', '1');
+    } catch (e) {
+      el.setAttribute('data-coords-status', 'ERR ' + e.message);
+    }
+  };
+
+  const obs = new MutationObserver(apply);
+  obs.observe(el, { childList: true, subtree: true, characterData: true });
+  apply();
+}
+)---"
+
+cluster_plot <- htmlwidgets::onRender(cluster_plot, relabel_js, data = coord_values)
+
 cluster_plot
 
-# Render the widget through the browser detected by Chromote.
-html_file <- tempfile("synteny-", fileext = ".html")
+Sys.setenv(
+  CHROMOTE_PORT = "9222",
+  CHROMOTE_CHROME = "/usr/bin/google-chrome"
+)
+
+out_dir <- if (dir.exists("results/synteny") || dir.exists("scripts/synteny")) {
+  "results/synteny"
+} else {
+  "."
+}
+dir.create(out_dir, recursive = TRUE, showWarnings = FALSE)
+
+temp_html <- file.path(out_dir, "temp.html")
 saveWidget(
   cluster_plot,
-  html_file,
+  temp_html,
   selfcontained = TRUE
 )
 
-# Start a Chromote browser session
 b = ChromoteSession$new()
-
-# Enable the Chrome DevTools Page domain
 b$Page$enable()
+b$Page$navigate(paste0("file://", normalizePath(temp_html)))
 
-# Open the HTML file
-b$Page$navigate(paste0("file://", normalizePath(html_file)))
-
-# Wait until all SVG layers have been rendered
 svg_ready = FALSE
 for (i in 1:50) {
-  
-  # Check whether more than one SVG has been created
   ready = b$Runtime$evaluate(
-    "document.querySelectorAll('.geneviewer svg').length > 1"
+    "document.querySelectorAll('.geneviewer svg').length > 1 &&
+     document.querySelector('[data-coords-fixed]') !== null"
   )$result$value
   
-  # Stop waiting once the figure is ready
   if (isTRUE(ready)) {
     svg_ready = TRUE
     break
   }
   
-  # Pause briefly before checking again
   Sys.sleep(0.2)
 }
 
-# Stop if the SVG layers never appeared
-if (!svg_ready)
-  stop("Not all SVG layers appeared — increase wait time")
+if (!svg_ready) {
+  status <- b$Runtime$evaluate(
+    "Array.from(document.querySelectorAll('[data-coords-status]')).map(e => e.getAttribute('data-coords-status')).join(' | ') || 'NO STATUS: onRender did not run'"
+  )$result$value
+  cat("Page status:", status, "\n")
+  b$close()
+  unlink(temp_html)
+  stop("Coordinate relabelling did not complete")
+}
 
-# JavaScript to merge all SVG layers into one SVG
 merge_js = "
 (function() {
 
-  // Find the GeneViewer container
   const container = document.querySelector('.geneviewer');
   const containerRect = container.getBoundingClientRect();
 
-  // Collect all SVG layers
   const svgs = Array.from(container.querySelectorAll('svg'));
 
-  // Separate link layers from the other layers
   const linkSvgs = svgs.filter(s => s.querySelector('.GeneLink') !== null);
   const baseSvgs = svgs.filter(s => !linkSvgs.includes(s));
 
-  // Preserve drawing order
   const ordered = [...linkSvgs, ...baseSvgs];
 
   let inner = '';
 
-  // Copy each SVG into a translated group
   ordered.forEach(svg => {
 
     const r = svg.getBoundingClientRect();
@@ -190,11 +268,9 @@ merge_js = "
 
   });
 
-  // Determine the final SVG dimensions
   const width = containerRect.width;
   const height = containerRect.height;
 
-  // Return the merged SVG
   return '<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"' +
          width +
          '\" height=\"' +
@@ -204,18 +280,18 @@ merge_js = "
          ' ' +
          height +
          '\">' +
+         '<rect width=\"100%\" height=\"100%\" fill=\"white\"/>' +
          inner +
          '</svg>';
 
 })()
 "
 
-# Execute the JavaScript and retrieve the merged SVG
 svg_merged = b$Runtime$evaluate(merge_js)$result$value
 
-# Save the merged SVG to disk
-writeLines(svg_merged, "results/synteny/synteny.svg")
+writeLines(svg_merged, file.path(out_dir, "synteny.svg"))
 
-# Close the browser session
 b$close()
-unlink(html_file)
+unlink(temp_html)
+unlink(file.path(out_dir, "temp_files"), recursive = TRUE)
+

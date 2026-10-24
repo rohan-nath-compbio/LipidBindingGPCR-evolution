@@ -53,6 +53,10 @@ For an input named `cnr1.acc`, a successful run creates:
 results/synteny/cnr1/cnr1.arranged.neighbor
 ```
 
+Running `Rscript scripts/synteny/synteny.R` produces the corresponding gene-neighborhood plot:
+
+![CNR1 Gene Neighborhood Synteny](../../results/synteny/synteny.svg)
+
 This report is arranged under taxonomic headers, including `MAMMALIA`, other vertebrate groups, and `INVERTEBRATE`. To keep result directories concise, intermediate accession, taxonomy, lineage, and neighborhood files are removed automatically after the final report is written. If report generation does not complete, intermediates are retained for inspection and rerunning.
 
 ## Reproducibility notes
