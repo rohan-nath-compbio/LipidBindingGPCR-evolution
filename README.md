@@ -13,22 +13,10 @@ Reproducible analysis workflows, scripts, and curated datasets supporting the ma
 
 This repository provides reproducible code and curated input data supporting the comparative genomic analyses described in the manuscript. Specifically, the repository includes routines to:
 
-- Reconstruct phyletic distribution patterns across vertebrate and invertebrate clades (taxonomic distributions, copy-number modes, sequence counts).
-- Perform micro-synteny analyses to map conserved genomic neighborhoods surrounding lipid-responsive GPCR loci (e.g., *CNR1*).
-- Systematically retrieve and filter animal orthology datasets from the public KEGG API.
-- Execute an end-to-end command-line workflow generating taxonomically arranged gene-neighborhood reports directly from NCBI protein accessions.
-
----
-
-## CNR1 Gene-Neighborhood Architecture (Synteny Demo)
-
-The figure below illustrates the micro-syntenic environment surrounding the **CNR1** locus across representative chordate genomes, rendered dynamically via `geneviewer`:
-
-<p align="center">
-  <img src="results/synteny/synteny.svg" alt="CNR1 Gene Neighborhood Synteny" width="100%">
-</p>
-
-*Figure: Synteny map showing the target gene (CNR1, crimson), conserved paralogon orthologs (pink), surrounding genomic neighborhood (grey), strand orientations, and aligned chromosomal coordinates.*
+- **Phyletic Distribution:** Reconstruct phyletic distribution patterns across vertebrate and invertebrate clades (taxonomic distributions, copy-number modes, sequence counts).
+- **Gene Neighborhood:** Execute an end-to-end command-line workflow generating taxonomically arranged genomic neighborhood reports directly from NCBI protein accessions.
+- **Synteny:** Perform micro-synteny analyses to map conserved genomic neighborhoods surrounding lipid-responsive GPCR loci (e.g., *CNR1*) with publication-ready vector figures.
+- **KEGG:** Systematically retrieve and filter animal orthology datasets from the public KEGG API with automated rate-limiting.
 
 ---
 
@@ -37,13 +25,13 @@ The figure below illustrates the micro-syntenic environment surrounding the **CN
 ```text
 LipidBindingGPCR-evolution/
 ├── data/
-│   ├── kegg/                   # Curated KEGG ortholog snapshots across animal phyla
 │   ├── phyletic-distribution/  # Input datasets for taxonomic counts and copy-number modes
-│   └── synteny/                # Curated CNR1 synteny dataset and example accession list
+│   ├── synteny/                # Curated CNR1 synteny dataset and example accession list
+│   └── kegg/                   # Curated KEGG ortholog snapshots across animal phyla
 ├── scripts/
-│   ├── kegg/                   # KEGG REST retrieval utility (fetch_kegg_orthologs.py)
 │   ├── phyletic-distribution/  # R scripts generating manuscript distribution heatmaps
-│   └── synteny/                # Synteny visualization script (synteny.R) and pipeline
+│   ├── synteny/                # Gene-neighborhood pipeline and synteny visualization script (synteny.R)
+│   └── kegg/                   # KEGG REST retrieval utility (fetch_kegg_orthologs.py)
 └── results/
     └── synteny/                # Generated publication figures (synteny.svg)
 ```
@@ -56,10 +44,10 @@ Run all commands from the repository root.
 
 | Workflow | Requirements |
 | :--- | :--- |
-| **Phyletic-distribution figures** | R ≥ 4.1, `ggplot2`, `dplyr`, `egg`, `tidyr`, `stringr`, `scales`, `svglite` |
-| **CNR1 synteny figure** | R ≥ 4.1, `geneviewer`, `readr`, `htmlwidgets`, `chromote`, and Google Chrome / Chromium |
-| **KEGG retrieval** | Python ≥ 3.10 (Standard Library only; no third-party dependencies required) |
+| **Phyletic distribution** | R ≥ 4.1, `ggplot2`, `dplyr`, `egg`, `tidyr`, `stringr`, `scales`, `svglite` |
 | **Gene-neighborhood pipeline** | Linux / macOS, Conda, Bash, Python ≥ 3.10, `curl`, `tar`, `gzip`, `awk`, `grep`, `sed`, `sort` |
+| **Synteny visualization** | R ≥ 4.1, `geneviewer`, `readr`, `htmlwidgets`, `chromote`, and Google Chrome / Chromium |
+| **KEGG retrieval** | Python ≥ 3.10 (Standard Library only; no third-party dependencies required) |
 
 ### R Package Installation
 
@@ -74,22 +62,18 @@ install.packages(c(
 
 ---
 
-## Reproduce Manuscript Figures
+## 1. Phyletic Distribution Analysis
 
-Execute the following commands from the repository root:
+Generate the manuscript distribution figures across vertebrate and invertebrate lineages:
 
 ```bash
-# Generate phyletic distribution heatmaps
 Rscript scripts/phyletic-distribution/plot_taxonomic_distribution_vertebrates.R
 Rscript scripts/phyletic-distribution/plot_taxonomic_distribution_invertebrates.R
 Rscript scripts/phyletic-distribution/plot_copy_number_mode_vertebrates.R
 Rscript scripts/phyletic-distribution/plot_sequence_counts_vertebrates.R
-
-# Generate CNR1 synteny figure
-Rscript scripts/synteny/synteny.R
 ```
 
-The scripts create output directories in `results/` as needed and generate the following SVG files:
+The scripts create output directories in `results/phyletic-distribution/` and write the following SVG files:
 
 | Analysis | Script | Output File |
 | :--- | :--- | :--- |
@@ -97,13 +81,12 @@ The scripts create output directories in `results/` as needed and generate the f
 | Invertebrate taxonomic distribution | `plot_taxonomic_distribution_invertebrates.R` | `results/phyletic-distribution/taxonomic_distribution_invertebrates.svg` |
 | Vertebrate copy-number mode | `plot_copy_number_mode_vertebrates.R` | `results/phyletic-distribution/copy_number_mode_vertebrates.svg` |
 | Vertebrate sequence counts | `plot_sequence_counts_vertebrates.R` | `results/phyletic-distribution/sequence_counts_vertebrates.svg` |
-| CNR1 gene neighborhood | `synteny.R` | `results/synteny/synteny.svg` |
 
 ---
 
-## Generate Gene Neighborhoods from Accessions
+## 2. Gene-Neighborhood Pipeline
 
-Provide an input `.acc` file containing one NCBI protein accession per line. To run the supplied test accession set:
+Convert an input list of NCBI protein accessions into a taxonomically sorted gene-neighborhood report:
 
 ```bash
 bash scripts/synteny/run_synteny_pipeline.sh data/synteny/example.acc
@@ -115,9 +98,29 @@ For full pipeline options, input specifications, and troubleshooting, see the [G
 
 ---
 
-## Regenerate KEGG Ortholog Tables
+## 3. Synteny Analysis and Visualization
 
-The deposited tables in [`data/kegg`](data/kegg) are reproducible snapshots. To query the public KEGG REST API and regenerate a table for a gene symbol or KEGG Orthology (KO) identifier:
+Generate the publication-ready gene synteny figure for the **CNR1** genomic neighborhood:
+
+```bash
+Rscript scripts/synteny/synteny.R
+```
+
+The script writes `results/synteny/synteny.svg`.
+
+### CNR1 Synteny Demo
+
+<p align="center">
+  <img src="results/synteny/synteny.svg" alt="CNR1 Gene Neighborhood Synteny" width="100%">
+</p>
+
+*Figure: Synteny map showing the target gene (CNR1, crimson), conserved paralogon orthologs (pink), and surrounding genomic neighborhood (grey).*
+
+---
+
+## 4. KEGG Ortholog Retrieval
+
+Retrieve ortholog tables dynamically from the public KEGG API for any gene symbol or KEGG Orthology (KO) identifier:
 
 ```bash
 python3 scripts/kegg/fetch_kegg_orthologs.py DAGL data/kegg/dagl.tsv
@@ -134,9 +137,9 @@ The script includes automated rate-limiting, exponential backoff retries, and an
 | `data/phyletic-distribution/receptor_taxonomic_distribution.csv` | Unique species counts by receptor and taxonomic group |
 | `data/phyletic-distribution/receptor_copy_number_mode.csv` | Modal receptor copy number by receptor and taxonomic group |
 | `data/phyletic-distribution/receptor_sequence_counts.csv` | Sequence counts by receptor and taxonomic group |
-| `data/synteny/synteny.csv` | Curated genomic neighborhood coordinates used for synteny mapping |
 | `data/synteny/example.acc` | Example accession input for the command-line gene-neighborhood workflow |
-| `data/kegg/*.tsv` | KEGG-derived ortholog snapshots |
+| `data/synteny/synteny.csv` | Curated genomic neighborhood coordinates used for synteny mapping |
+| `data/kegg/*.tsv` | KEGG-derived reference ortholog snapshots |
 
 In the phyletic-distribution tables, `Phyla` identifies the taxonomic group and `Receptor` identifies a receptor or pipe-delimited receptor block. A `/LIKE` suffix denotes a receptor-like sequence.
 
