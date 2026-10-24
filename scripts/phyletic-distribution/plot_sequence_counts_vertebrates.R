@@ -43,8 +43,8 @@ n_phyla <- max(phyla_pos)
 single_data <- data %>%
   filter(!grepl("\\|", Receptor)) %>%
   mutate(
-    base_rec = sub("/LIKE$", "", Receptor),
-    is_like = grepl("/LIKE$", Receptor)
+    base_rec = sub("[-/]LIKE$", "", Receptor),
+    is_like = grepl("[-/]LIKE$", Receptor)
   )
 
 single_positive <- single_data %>% filter(Sequences > 0)
@@ -172,7 +172,7 @@ triangle_labels <- if (nrow(triangle_data) > 0) {
 # 6. Color scale: monochromatic amber ramp, complements panel 1's blue
 data_scope <- data %>%
   filter(Phyla %in% phyla_order) %>%
-  mutate(base_rec = sub("/LIKE$", "", sapply(strsplit(Receptor, "\\|"), `[`, 1))) %>%
+  mutate(base_rec = sub("[-/]LIKE$", "", sapply(strsplit(Receptor, "\\|"), `[`, 1))) %>%
   filter(base_rec %in% receptor_order | grepl("\\|", Receptor))
 max_val <- max(data_scope$Sequences, na.rm = TRUE)
 

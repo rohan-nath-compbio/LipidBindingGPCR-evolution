@@ -141,7 +141,7 @@ The script includes automated rate-limiting, exponential backoff retries, and an
 | `data/synteny/synteny.csv` | Curated genomic neighborhood coordinates used for synteny mapping |
 | `data/kegg/*.tsv` | KEGG-derived reference ortholog snapshots |
 
-In the phyletic-distribution tables, `Phyla` identifies the taxonomic group and `Receptor` identifies a receptor or pipe-delimited receptor block. A `/LIKE` suffix denotes a receptor-like sequence.
+In the phyletic-distribution tables, `Phyla` identifies the taxonomic group and `Receptor` identifies a receptor or pipe-delimited receptor block. A `-LIKE` suffix denotes a receptor-like sequence.
 
 ---
 

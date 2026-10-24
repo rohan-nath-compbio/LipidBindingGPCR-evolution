@@ -44,8 +44,8 @@ n_phyla <- max(phyla_pos)
 single_data <- data %>%
   filter(!grepl("\\|", Receptor)) %>%
   mutate(
-    base_rec = sub("/LIKE$", "", Receptor),
-    is_like = grepl("/LIKE$", Receptor)
+    base_rec = sub("[-/]LIKE$", "", Receptor),
+    is_like = grepl("[-/]LIKE$", Receptor)
   )
 
 single_positive <- single_data %>% filter(Unique_species > 0)
